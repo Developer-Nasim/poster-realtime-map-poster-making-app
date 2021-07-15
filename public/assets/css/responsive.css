@@ -1,0 +1,4480 @@
+/* Big-desktop screen :1200px. */
+@media (min-width: 1500px) and (max-width: 2300px) {
+    body { 
+        font-size: 16px;
+       } 
+    .header-top p { 
+        font-size: 16px;
+        padding: 15px 0; 
+    }
+    .hero-area .hero-slider .hero-item h1 {  
+        font-size: 56px;
+        line-height: 80px; 
+        margin-bottom: 70px;
+    }
+    .start-area img.stas { 
+        width: 600px;
+    }
+    .start-area { 
+        padding: 125px 0; 
+    }
+    .start-area img.img {
+        left: 38%;
+        bottom: 0;
+        height: 550px;
+        top: auto;
+    }
+    .star-wrp h1 {
+        font-size: 54px;  
+        margin-bottom: 30px;
+    }
+    .star-wrp p { 
+        margin-bottom: 30px; 
+    }
+    .menu-area nav ul li a {
+        font-size: 16px;
+        margin: 0 40px;
+    }
+    .header-action ul li .nice-select {
+        width: 70px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 15px;
+    }
+    .header-action ul li.poster-btn a { 
+        padding: 0px 30px; 
+        font-size: 16px;
+        margin-right: 20px; 
+        font-weight: 500; 
+        line-height: 38px;
+    }
+    .header-action ul li .nice-select ul.list li { 
+        font-size: 14px;
+    }
+    .header-action ul li a i {
+        margin-right: 30px;
+        font-size: 20px;
+    }
+     .how-its-work .section-title h1 {
+        font-size: 64px !important;
+        margin-bottom: 5px;
+    }
+    .section-title p {
+        font-size: 24px;
+    }
+    .works-blk img {
+        height: 150px;
+    }  
+    .how-its-work.about .works-blk img {
+        height: 80px;
+    }  
+    .works-blk h5 {
+        padding-bottom: 130px;
+        font-size: 24px;
+    }
+    a.theme-btn {
+        height: 60px;
+        width: auto;
+        padding: 0 30px;
+        line-height: 60px;
+    }
+    .strock-title {
+        margin-bottom: -125px;
+        font-size: 160.67px;  
+    }
+    .designed-area {
+        padding-top: 50px;
+    }
+    .designed-wrp .designed-item img { 
+        height: 60px; 
+        margin-bottom: 50px;
+    }
+    .designed-wrp .designed-item h3 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .designed-wrp .owl-item.center .designed-item {
+        margin-top: 80px; 
+    }
+    .designed-wrp .designed-item { 
+        padding: 35px; 
+    }
+    .comprises-area .first-step img {  
+        height: 800px;
+    }
+    .comprises-wrp h3 { 
+        font-size: 38px;
+        margin-bottom: 40px;
+    }
+    .first-step .comprises-wrp h1.strock-title {
+        margin-left: -100px;
+    }
+    .comprises-wrp p {
+        margin-bottom: 30px;
+    }
+    .second-step img { 
+        height: 800px;
+    }
+    .second-step {
+        margin-top: 100px; 
+    }
+    .second-step .comprises-wrp {
+        padding-top: 200px;
+        padding-bottom: 140px;
+        padding-right: 200px;
+    }
+    .designed-wrp {
+        height: 470px;
+    }
+    .works-blk a { 
+        bottom: -35px; 
+    }
+    .how-its-work span.snape-one {
+        width: 130px;
+        height: 130px; 
+        top: 3%; 
+    }
+    .designed-area .section-title {
+        margin-bottom: 80px;
+    }
+    .how-its-work {
+        padding-top: 110px;
+    }
+    .how-its-work:before { 
+        width: 500px;
+        height: 500px; 
+        top: 13%;
+        left: -300px;
+        border-radius: 50%; 
+    }
+    .how-its-work:after { 
+        width: 550px;
+        height: 550px; 
+        top: 5%;
+        right: -300px; 
+    }
+    .main-steps {
+        margin-top: 50px;
+    }
+    .step-desc {
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        margin-bottom: 40px;
+    }
+    .step-desc h4 {
+        font-size: 21px; 
+        margin-bottom: 10px;
+    } 
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1450px;
+    }  
+    .section-title h1 {
+        font-size: 40px;
+        margin-bottom: 0;
+    }
+
+    .section-title span { 
+        margin-top: 30px;
+        line-height: 26px; 
+    }
+    .slider-item img {
+        width: 100px;
+        height: 100px; 
+        margin-bottom: 40px;
+    } 
+    .slider-item h4 {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    .slider-item span {
+        width: 30px;
+        height: 30px;  
+        line-height: 30px; 
+        font-size: 14px;  
+        margin-top: -5px;
+    }
+    .slider-item h5 {
+        font-size: 15px; 
+    }
+    .slider-item h5 b {
+        letter-spacing: 3px;
+    }
+    .slider-item h5 ul li svg {
+        width: 15px;
+    }
+    .slider-item h5 ul li.last-icon svg {
+        width: 95px;
+        height: 110px;
+        transform: scale(.2); 
+        top: -41px;
+        left: -38px;
+    }
+    .slider-item {
+        padding: 35px;  
+        padding-top: 90px;
+    }
+    .slider-item img:first-child { 
+        top: -50px;
+    }
+    .testimonail-area .section-title {
+        margin-bottom: 150px;
+    }
+    .slider-item img.snape {  
+        margin-top: 30px;
+        margin-bottom: 25px;
+    }
+    .instagram-area {
+        padding: 90px 0;
+        padding-top: 90px;
+    }
+    .instagram-area .section-title {
+        margin-bottom: 60px;
+    }
+    .features-area { 
+        padding: 90px 0;
+    }
+    .feature-blk span {
+        font-size: 36px;
+        margin-right: 30px;
+    }
+    .feature-blk h4 {
+        font-size: 18px; 
+    }
+    .feature-blk h4 p {
+        font-size: 15px; 
+        margin-top: 10px; 
+    }
+    .all-blks .feature-blk {
+        margin-left: 90px;
+    }
+    .feature-blk:first-child {
+        margin: 0;
+    }
+    .slider-item p {
+        font-size: 18px;  
+        padding-right: 28px;
+        margin: 0;
+    }
+    button.slick-arrow {
+        left: 0; 
+        transform: scale(.4); 
+        top: 35%;
+    }
+    button.slick-next.slick-arrow {
+        left: auto;
+        right: 0px;
+    }
+    .step-items .img.sec span { 
+        bottom: -15px;
+        left: 8%; 
+        width: 80px;
+        height: 80px; 
+        line-height: 80px;
+        font-size: 26px; 
+    }
+    .section-title {
+        margin-bottom: 70px;
+    } 
+    .testimonail-area { 
+        margin-bottom: 0;
+        padding: 100px 0;
+        padding-bottom: 50px;
+    }
+    .footer-menu ul li a {
+        margin-left: 0px;
+        font-size: 15px;
+        margin-right: 70px;
+    }
+    .footer-social ul li a {
+        width: 45px;
+        height: 45px; 
+        line-height: 45px;  
+        font-size: 20px;
+        margin-left: 30px;
+    }
+    .copy-texts p { 
+        font-size: 14px;
+    }
+    .footer-content {
+        padding: 40px 0;
+    }
+    .copy-texts { 
+        padding: 20px 0;
+    }
+    .footer-logo a img {
+        width: 75%;
+    }
+    .Image-preview {
+        margin: 90px 0;
+    }
+    .geller-blk.mt-225 {
+        margin-top: 100px;
+    }  
+    .paying-detailse h3 {
+        font-size: 42px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .paying-detailse h5 { 
+        font-size: 18px; 
+    }
+    .paying-detailse h5 .price span { 
+        padding: 13px 21px;
+        margin-left: 20px;
+    }
+    .paying-detailse h5 a {
+        min-width: 290px;
+        height: 60px; 
+        line-height: 60px; 
+        font-size: 18px; 
+    }
+    .paying-detailse p {
+        margin-top: 40px;
+        margin-bottom: 70px;
+    }
+    .paying-detailse li h4 { 
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .menu-area nav ul li a:after { 
+        height: 5px; 
+        bottom: -15px; 
+    } 
+    .paying-detailse li .nice-select {
+        width: 380px;
+        height: 50px;
+        line-height: 50px;
+        padding-left: 25px; 
+        font-size: 16px;
+        margin-right: 45px;
+    }
+    .paying-detailse li .nice-select:after {
+        border-bottom: 2px solid #B6B6B8;
+        border-right: 2px solid #B6B6B8;
+        height: 10px;
+        margin-top: -6px;
+        right: 30px;
+        top: 50%;
+        width: 10px;
+    }
+    .paying-detailse li .nice-select ul li { 
+        font-size: 18px; 
+    }
+    .paying-detailse li input {
+        width: 380px;
+        height: 50px; 
+        padding-left: 25px; 
+        font-size: 16px; 
+    }
+    .paying-detailse a.theme-btn { 
+        margin-top: 70px;
+    } 
+    .tab-pane {
+        height: 600px; 
+        border-radius: 20px; 
+    }
+    .img-gellery .nav li.nav-item {
+        width: 170px;
+        margin: 0 10px;  
+        height: 170px;
+        border-radius: 25px; 
+        margin-top: 20px;
+    }
+    ul#pills-tab {
+        justify-content: center;
+    }
+    .product-detailse {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .order-steps {
+        padding: 200px 0;
+        padding-bottom: 150px;
+    }
+    .order-single-blk { 
+        padding: 40px 30px;
+        border-radius: 20px; 
+    }
+    .order-single-blk span {
+        height: 80px;
+        min-width: 80px; 
+        line-height: 80px; 
+        font-size: 20px;  
+        margin-right: 40px;
+    }
+    .addOns-area .mt-100 {
+        margin-top: 50px;
+    }
+    .addOns-blk h4 {
+        font-size: 18px; 
+        padding: 35px 0; 
+    }
+    .addOns-area {
+        margin-top: 100px;
+    }
+    .Bredcramp-area { 
+        height: 700px; 
+    }
+
+    .bradcramp-text h1 {
+        font-size: 80px; 
+    }
+     
+    .addons-detailse { 
+        border-radius: 20px;
+        margin-bottom: 60px;
+    } 
+    .cart-area {
+        padding: 100px 0;
+    }
+    .single-cart table thead tr th { 
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .single-cart table tbody tr td { 
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .single-cart table tbody tr td img {
+        width: 130px;
+        height: 130px;  
+        margin-right: 40px;
+    }
+    .single-cart table thead tr th:first-child {
+        padding-left: 50px;
+    }
+    .single-cart table thead tr th:last-child {
+        padding-right: 50px;
+    }
+    .single-cart table tbody tr td:first-child {
+        padding-left: 50px;
+    }
+    .single-cart table tbody tr td:last-child {
+        padding-right: 50px;
+    }
+    .single-cart table tbody tr td .cart-wrp h5 { 
+        font-size: 22px;
+    } 
+    .single-cart table tbody tr td .cart-wrp h5 span { 
+        margin-top: 5px;
+        font-size: 18px;
+    }
+    .nice-number button {
+        height: 43px;
+        width: 43px; 
+        font-size: 30px;
+        line-height: 39px;
+    }
+    .nice-number input[type="number"] {
+        min-width: 55px; 
+    }
+    .single-cart table tbody tr td a.trash {
+        height: 50px;
+        width: 50px;
+        line-height: 50px; 
+        margin-left: 0;
+    }
+    .single-cart table { 
+        margin-bottom: 70px;
+    }
+    .total-costs h4 {
+        margin: 0;
+        height: 85px;
+        line-height: 85px;
+        width: 450px; 
+        border-radius: 15px;
+        font-size: 18px;
+    }
+    .services-contain p {
+        padding-bottom: 10px;
+        font-size: 16px;
+        line-height: 30px;
+    } 
+    .services-area {
+        padding-top: 120px; 
+    } 
+    .btn.btn-link.collapsed { 
+        font-size: 18px; 
+        padding: 20px 40px; 
+    }   
+    .btn.btn-link { 
+        font-size: 18px; 
+        padding: 20px 40px; 
+      }
+      .accordion-area div#accordion span { 
+        right: 40px;
+        font-size: 30px;  
+      }
+      .card-body p {
+        padding: 10px 0;
+        margin-left: 50px;
+      } 
+      .card-body p:last-child {
+        padding-top: 0px;
+      }  
+      
+    .contact-from ::placeholder { 
+        font-size: 16px; 
+        
+    }
+    .contact-from input {  
+        padding: 15px 30px; 
+        margin-bottom: 30px;
+    }
+    .contact-from textarea.message {  
+        padding: 20px 30px;
+        min-height: 260px;
+    }   
+    textarea.message {
+        margin-bottom: 40px;
+    }
+    .card { 
+        margin-bottom: 30px;
+    }
+    .single-cart.Payment .couppon-code input { 
+        height: 60px; 
+    }
+    .shoping-method {  
+        padding: 90px 0;
+    }
+    input[type=checkbox] + label { 
+        padding: 40px 40px 40px 90px; 
+    }
+    .method-blk h5 {
+        font-size: 15px; 
+    }
+    .method-blk p {
+        margin: 0;
+        margin-top: 20px;
+        line-height: 25px;
+    }
+    input[type=checkbox] + label:before { 
+        font-size: 16px;
+        width: 30px;
+        height: 30px; 
+        line-height: 30px; 
+        left: 40px;
+    }
+    .shoping-method .section-title {
+        margin-bottom: 70px;
+    }
+    .billin-details-area {
+        padding: 90px 0;
+    }  
+    label.allterms { 
+        padding: 50px 0px 50px 50px !important;
+    }
+    .contact-from.billing .card {
+        margin-bottom: 30px;
+    }
+    .privacy-wrp { 
+        padding: 70px;
+        margin-top: 50px;
+    }   
+    .outout img {
+        margin: 80px 50px;
+        max-width: 100%;
+        width: 700px;
+    }  
+    .editor .card .card-header button { 
+        padding-left: 45px; 
+    }
+    .editor .card .card-header button img {
+        margin-right: 25px;
+        width: 40px;
+    }
+    .editor .card .btn.btn-link.collapsed span {
+        font-size: 18px;
+        top: 12px;
+        left: 32px;
+        transform: rotate( -90deg );
+    }
+    .editor .card .btn.btn-link span {  
+        font-size: 18px;
+        top: 13px;
+        left: 32px;
+    }
+    .editor .card-body {
+        padding: 25px 35px;
+        border-bottom: 1px solid #eaebeb;
+    } 
+
+    .editor .card-body ::placeholder { 
+        font-size: 16px; 
+        
+      }
+      .editor .card-body .nice-select {
+        font-size: 16px; 
+        height: 50px;
+        line-height: 50px;
+        padding-left: 20px;
+        padding-right: 60px;
+        margin-right: 15px; 
+    }
+    .editor .card-body .nice-select:after {
+        border-bottom: 2px solid #273d5d;
+        border-right: 2px solid #273d5d;
+        height: 10px;
+        margin-top: -5px;
+        right: 18px;
+        width: 10px;
+    } 
+    .l-message h3 { 
+        font-size: 20px;
+    }
+    .l-message textarea { 
+        min-height: 200px; 
+    }
+    div#collapseOnet .card-body .style-icon span {
+        min-width: 103px;
+        height: 130px;
+        padding: 0;
+        border: 2px solid #0000;
+        font-size: 67px;
+    }
+    .elements h3 {
+        height: 60px;
+        line-height: 60px;
+        padding-left: 45px;
+        font-size: 16px;
+    }  
+    .theme ul li a {
+        padding: 0 26px;
+        height: 40px;
+        line-height: 40px;
+        border-radius: 5px !important;
+    }
+    .editor .card-body .theme-wrp ul li a span {
+        width: 50px;
+        height: 50px;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    .editor .card-body .theme-wrp ul li { 
+        line-height: 10px; 
+    }
+    .editor .card-body .theme-wrp ul li a {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .editor .card-body label .lc span img {
+        width: 40px;
+    }
+    .theme-wrp i {
+        font-size: 15px; ;
+        margin-top: 5px; 
+    }
+    .theme ul {
+        margin-bottom: 50px !IMPORTANT;
+    }
+    .adding-email label span {  
+        font-size: 18px;
+    }
+    .adding-email label input { 
+        width: 100%;
+        height: 50px; 
+        padding-left: 35px; 
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+    .adding-email label i {
+        font-size: 14px;
+        display: block;
+    }
+    .adding-email a { 
+        margin-top: 80px; 
+    }
+    .adding-email a img {
+        margin-right: 10px;
+        width: 30px;
+    }  
+    .adding-email { 
+        width: 80%;
+        margin-bottom: 160px;
+        margin-top: 70px;
+    }
+
+
+
+
+
+
+
+}
+
+
+
+/* Desktop screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+ body { 
+    font-size: 16px;
+    }
+    .header-top p { 
+        font-size: 15px;
+        padding: 15px 0; 
+    } 
+    .menu-area nav ul li a {
+        font-size: 16px;
+        margin: 0 30px;
+    }
+    .header-action ul li .nice-select {
+        width: 90px;
+        height: 46px;
+        line-height: 50px;
+        font-size: 18px;
+        padding: 0;
+    }
+    .header-action ul li a i {
+        margin-right: 25px;
+        font-size: 20px;
+    }
+    .header-action ul li .nice-select ul.list li { 
+        font-size: 16px;
+    }
+    .menu-area nav ul li a:after { 
+        height: 5px; 
+        bottom: -15px; 
+    }
+    .how-its-work .section-title h1 {
+        font-size: 64px !important;
+        margin-bottom: 5px;
+    }
+    .section-title p {
+        font-size: 24px;
+    }
+    .works-blk img {
+        height: 100px;
+    }  
+
+    .works-blk h5 {
+        padding-bottom: 25px;
+        font-size: 22px;
+        margin-top: 60px;
+    }
+    a.theme-btn {
+        height: 50px;
+        width: auto;
+        line-height: 55px;
+        padding: 0 20px;
+        font-size: 13px;
+    }
+    .start-area img.img { 
+        left: 35%;
+        bottom: 0;
+        height: 500px;
+        top: auto;
+    }
+    .comprises-area .first-step img {  
+        top: 40px;
+        height: 700px;
+    }
+    .comprises-wrp h3 { 
+        font-size: 32px;
+        margin-bottom: 35px;
+    }
+    .first-step .comprises-wrp {
+        padding-left: 60px;
+    }
+    .comprises-wrp {
+        padding-top: 130px;
+    }
+    .first-step .comprises-wrp h1.strock-title {
+        margin-left: -40px;
+    }
+    .comprises-wrp p {
+        margin-bottom: 25px;
+    }
+    .second-step img { 
+        height: 630px;
+    }
+    .second-step {
+        margin-top: 100px; 
+    }
+    .second-step .comprises-wrp {
+        padding-top: 160px;
+        padding-bottom: 90px;
+        padding-right: 50px;
+    }
+    .strock-title {
+        margin-bottom: -90px;
+        font-size: 116.67px; 
+    }
+    .designed-area {
+        padding-top: 50px;
+    }
+    .designed-area .section-title {
+        margin-bottom: 00px;
+    }
+    .designed-wrp .designed-item img { 
+        height: 60px;
+        margin-left: 20px;
+        margin-bottom: 45px;
+    }
+    .designed-wrp .designed-item h3 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .designed-wrp .designed-item { 
+        padding: 40px;
+        margin-bottom: 35px;
+        border-radius: 20px;
+    }
+    .designed-wrp {
+        height: 470px;
+    }
+    .designed-wrp .owl-item.center .designed-item {
+        margin-top: 50px; 
+    }
+    .works-blk a {
+        bottom: -20px;
+    }
+    .works-blk:hover {
+        padding-top: 90px; 
+    }
+    .how-its-work span.snape-two {
+        width: 90px;
+        height: 90px; 
+        top: 31%; 
+        right: 4%;
+    }
+    .top-steps {
+        height: 410px;
+    }
+    .how-its-work span.snape-one {
+        width: 80px;
+        height: 80px;
+        top: 3%;
+    }
+    .how-its-work {
+        padding-top: 110px;
+    }
+    .how-its-work:before {
+        width: 300px;
+        height: 300px;
+        top: 8%;
+        left: -150px;
+        border-radius: 50%;
+    }
+    .how-its-work:after {
+        width: 400px;
+        height: 400px;
+        top: 4%;
+        right: -200px;
+    }
+    .main-steps {
+        margin-top: 50px;
+    }
+    .step-desc {
+        padding-left: 25px;
+        padding-right: 50px;
+        padding-top: 35px;
+        padding-bottom: 10px;
+        margin-bottom: 40px;
+    }
+    .step-desc h4 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .works-blk:hover h5 {
+        padding-bottom: 80px;
+    }
+    
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1450px;
+    }
+     
+    .section-title h1 {
+        font-size: 40px;
+        margin-bottom: 0;
+    }
+
+    .section-title span { 
+        margin-top: 30px;
+        line-height: 26px; 
+    }
+    .slider-item img {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 40px;
+    }
+    .slider-item img:first-child {
+        position: absolute;
+        top: -45px;
+    }
+    .slider-item h4 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .slider-item span {
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+        font-size: 10px;
+        margin-top: 0px;
+    }
+    .testimonail-area .section-title {
+        margin-bottom: 200px;
+    }
+    .slider-item h5 {
+        font-size: 15px; 
+    }
+    .slider-item h5 b {
+        letter-spacing: 3px;
+    }
+    .slider-item h5 ul li svg {
+        width: 15px;
+    }
+    .slider-item h5 ul li.last-icon svg {
+        width: 95px;
+        height: 110px;
+        transform: scale(.2); 
+        top: -41px;
+        left: -38px;
+    }
+    .slider-item {
+        padding: 35px;  
+        border-radius: 20px; 
+        margin: 0 8px;
+    }
+    .slider-item img.snape {
+        margin-top: 10px;
+        margin-bottom: 25px;
+    }
+    .slider-item p {
+        font-size: 15px;
+        padding-right: 20px;
+        margin: 0;
+    }
+    .works-blk.active {
+        padding-top: 90px; 
+    }
+    .works-blk.active h5 {
+        padding-bottom: 80px;
+    }
+    button.slick-arrow {
+        left: 0;
+        top: 20%;
+        transform: scale(.4) translateY(-50%);
+    }
+    .instagram-area {
+        padding: 70px 0;
+        padding-top: 70px;
+    }
+    .instagram-area .section-title {
+        margin-bottom: 40px;
+    }
+    .features-area { 
+        padding: 80px 0;
+    }
+    
+    .all-blks .feature-blk {
+        margin-left: 43px;
+    }
+    .feature-blk:first-child {
+        margin: 0;
+    }
+    .feature-blk span {
+        font-size: 24px;
+        margin-right: 15px;
+    }
+    .feature-blk h4 {
+        font-size: 18px; 
+    }
+    .feature-blk h4 p {
+        font-size: 15px; 
+        margin-top: 5px;
+    }
+    button.slick-next.slick-arrow { 
+        right: -20px;
+    }
+    .section-title {
+        margin-bottom: 70px;
+    } 
+    .testimonail-area {
+        margin-bottom: 0;
+        padding: 80px;
+        padding-bottom: 30px;
+    }
+    .footer-menu ul li a { 
+        margin-right: 60px;
+    }
+    .footer-social ul li a {
+        width: 35px;
+        height: 35px; 
+        line-height: 35px; 
+        transition: .3s;
+        font-size: 18px;
+        margin-left: 20px;
+    }
+    .copy-texts p { 
+        font-size: 15px;
+    }
+    .footer-content {
+        padding: 40px 0;
+    }
+    .copy-texts { 
+        padding: 20px 0;
+    }
+    .footer-logo a img {
+        width: 90%;
+    }
+    .Image-preview {
+        margin-top: -30px;
+    }
+    .geller-blk.mt-225 {
+        margin-top: 100px;
+    }
+    .works-blk {
+        padding-top: 50px; 
+    }
+    .step-items .img.sec span { 
+        bottom: -40px; 
+        transform: scale(.6);
+    } 
+    .paying-detailse h3 {
+        font-size: 36px;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    .paying-detailse h5 {
+        font-size: 16px;
+    } 
+    .paying-detailse h5 .price span { 
+        padding: 13px 21px;
+        margin-left: 20px;
+    }
+    .paying-detailse h5 a {
+        min-width: 250px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 16px;
+    }
+    .paying-detailse p {
+        margin-top: 40px;
+        margin-bottom: 70px;
+    }
+    .paying-detailse li h4 { 
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .paying-detailse li .nice-select {
+        width: 250px;
+        height: 40px;
+        line-height: 40px;
+        padding-left: 25px;
+        font-size: 16px;
+        margin-right: 45px;
+    }
+    .paying-detailse li .nice-select:after {
+        border-bottom: 2px solid #B6B6B8;
+        border-right: 2px solid #B6B6B8;
+        height: 10px;
+        margin-top: -6px;
+        right: 30px;
+        top: 50%;
+        width: 10px;
+    }
+    .paying-detailse li .nice-select ul li { 
+        font-size: 18px; 
+    }
+    .paying-detailse li input {
+        width: 250px;
+        height: 40px;
+        line-height: 40px;
+        padding-left: 25px;
+        font-size: 16px;
+    }
+    .paying-detailse a.theme-btn { 
+        margin-top: 70px;
+    } 
+    .tab-pane {
+        height: 600px; 
+        border-radius: 20px; 
+    }
+    .img-gellery .nav li.nav-item {
+        width: 130px;
+        margin: 0 10px;
+        height: 130px;
+        border-radius: 15px;
+        margin-top: 20px;
+    }
+    ul#pills-tab {
+        justify-content: center;
+    }
+    .product-detailse {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .order-steps {
+        padding: 200px 0;
+        padding-bottom: 150px;
+    }
+    .order-single-blk { 
+        padding: 40px 30px;
+        border-radius: 20px; 
+    }
+    .order-single-blk span {
+        height: 80px;
+        min-width: 80px; 
+        line-height: 80px; 
+        font-size: 20px;  
+        margin-right: 40px;
+    }
+     
+    .Bredcramp-area { 
+        height: 400px; 
+    }
+
+    .bradcramp-text h1 {
+        font-size: 60px; 
+    }
+     
+ 
+    .cart-area {
+        padding: 100px 0;
+    }
+    .single-cart table thead tr th { 
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .single-cart table tbody tr td { 
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .single-cart table tbody tr td img {
+        width: 130px;
+        height: 130px;  
+        margin-right: 40px;
+    }
+    .single-cart table thead tr th:first-child {
+        padding-left: 50px;
+    }
+    .single-cart table thead tr th:last-child {
+        padding-right: 50px;
+    }
+    .single-cart table tbody tr td:first-child {
+        padding-left: 50px;
+    }
+    .single-cart table tbody tr td:last-child {
+        padding-right: 50px;
+    }
+    .single-cart table tbody tr td .cart-wrp h5 { 
+        font-size: 22px;
+    } 
+    .single-cart table tbody tr td .cart-wrp h5 span { 
+        margin-top: 5px;
+        font-size: 18px;
+    }
+    .nice-number button {
+        height: 43px;
+        width: 43px; 
+        font-size: 30px;
+        line-height: 39px;
+    }
+    .nice-number input[type="number"] {
+        min-width: 55px; 
+    }
+    .single-cart table tbody tr td a.trash {
+        height: 50px;
+        width: 50px;
+        line-height: 50px; 
+        margin-left: 0;
+    }
+    .single-cart table { 
+        margin-bottom: 70px;
+    }
+    .total-costs h4 {
+        margin: 0;
+        height: 85px;
+        line-height: 85px;
+        width: 450px; 
+        border-radius: 15px;
+        font-size: 18px;
+    } 
+    .services-contain p {
+        padding-bottom: 10px;
+        font-size: 16px;
+        line-height: 30px;
+    } 
+    .services-area {
+        padding-top: 120px; 
+    } 
+    .services-contain h2 {
+        font-size: 28px; 
+        margin-bottom: 40px;
+    } 
+    .services-contain {
+        margin-bottom: 80px;
+    } 
+    .accordion-area {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    } 
+    .btn.btn-link.collapsed { 
+        font-size: 18px; 
+        padding: 20px 40px; 
+    }   
+    .btn.btn-link { 
+        font-size: 18px; 
+        padding: 20px 40px; 
+      }
+      .accordion-area div#accordion span { 
+        right: 40px;
+        font-size: 30px;  
+      }
+      .card-body p {
+        padding: 10px 0;
+        margin-left: 50px;
+      } 
+      .card-body p:last-child {
+        padding-top: 0px;
+      } 
+    .contact-from p { 
+        font-weight: 400; 
+        margin-bottom: 15px;
+        margin-left: 30px;
+    }
+      
+    .contact-from ::placeholder { 
+        font-size: 16px; 
+        
+    }
+    .contact-from input {  
+        padding: 15px 30px; 
+        margin-bottom: 30px;
+    }
+    .contact-from textarea.message {  
+        padding: 20px 30px;
+        min-height: 260px;
+    }  
+    .contact-btn.btn {
+        height: 60px;
+        width: 220px;
+        line-height: 60px;
+        padding: 0px;
+        font-size: 20px;
+    }
+    textarea.message {
+        margin-bottom: 40px;
+    }
+    .Contact-us-area {
+        padding: 70px 0px;
+    }
+    .hero-area .hero-slider .hero-item h1 { 
+        font-size: 45px;
+        line-height: 55px; 
+        margin-bottom: 50px;
+    } 
+    .start-area img.stas { 
+        height: 700px; 
+    }
+    .start-area { 
+        padding: 95px 0;  
+    }
+    .star-wrp h1 {
+        font-size: 45px;  
+        margin-bottom: 40px;
+    }
+    .star-wrp p { 
+        margin-bottom: 30px; 
+    }
+    .card { 
+        margin-bottom: 20px;
+      }
+    .single-cart.Payment .couppon-code input { 
+        height: 50px;
+        padding-left: 30px; 
+    }
+    .shoping-method { 
+        padding: 90px 0;
+    }
+    .shoping-method input[type=checkbox] + label {
+        padding: 40px 40px 40px 85px;
+    }
+    .method-blk h5 {
+        font-size: 16px; 
+    }
+    input[type=checkbox] + label:before { 
+        font-size: 16px;
+        width: 25px;
+        height: 25px; 
+        line-height: 25px; 
+        left: 40px;
+    }
+    .method-blk p {
+        margin: 0;
+        margin-top: 15px;
+        line-height: 25px;
+    }
+    .shoping-method .section-title {
+        margin-bottom: 60px;
+    }
+    .billin-details-area {
+        padding: 90px 0;
+    }
+    .contact-from.billing .card label { 
+        padding-left: 40px; 
+    }
+    .contact-from.billing .card {
+        margin-bottom: 30px;
+    }
+    .contact-from.billing .card-body h4 { 
+        padding: 20px;
+        margin-bottom: 50px;
+        font-size: 20px;
+    }
+    .contact-from.billing .card-body { 
+        padding: 0;
+    }
+    .privacy-wrp p {
+        font-size: 18px;
+        font-weight: 200; 
+        line-height: 30.17px; 
+        margin: 0;
+    } 
+    .privacy-wrp {
+        background: #F8F8FE;
+        padding: 60px;
+    }
+    label.allterms { 
+        padding: 40px 0px 40px 40px !important;
+    }    
+    .contact-from.billing .checkboxes-and-radios {
+        padding-left: 50px;
+    }
+    .checkboxes-and-radios span { 
+        margin-left: 15px; 
+    }  
+    .outout img {
+        margin: 80px 50px;
+        max-width: 100%;
+        width: 500px;
+    } 
+    .editor .card .card-header button { 
+        padding-left: 60px; 
+    }
+    .editor .card .card-header button img {
+        margin-right: 25px;
+        width: 40px;
+    }
+    .editor .card .btn.btn-link.collapsed span {  
+        font-size: 22px;
+        top: 8px;
+        transform: rotate(-90deg)
+    }
+    .editor .card .btn.btn-link span {
+        font-size: 22px;
+        top: 8px;
+        transform: rotate(0deg)
+    }
+    .editor .card-body {
+        padding: 40px 40px;
+        border-bottom: 1px solid #bec5ce;
+    }  
+    .l-message h3 span { 
+        font-size: 17px;
+    }
+      .editor .card-body .nice-select {
+        font-size: 16px; 
+        height: 50px;
+        line-height: 50px;
+        padding-left: 20px;
+        padding-right: 60px;
+        margin-right: 15px; 
+    }
+    .editor .card-body .nice-select:after {
+        border-bottom: 2px solid #273d5d;
+        border-right: 2px solid #273d5d;
+        height: 10px;
+        margin-top: -5px;
+        right: 18px;
+        width: 10px;
+    }
+    .editor .card-body label { 
+        font-size: 16px; 
+    }
+    .l-message h3 { 
+        font-size: 20px;
+    }
+    .l-message textarea { 
+        min-height: 200px; 
+    }
+    div#collapseOnet .card-body .style-icon span {
+        min-width: 95px;
+        height: 130px;
+        padding: 5px;
+        border: 2px solid #0000;
+        font-size: 60px;
+    }
+    .elements h3 { 
+        height: 80px;
+        line-height: 80px; 
+        padding-left: 70px; 
+        font-size: 16px;
+    } 
+    .theme ul li a {
+        padding: 0 25px;
+        height: 50px;
+        line-height: 50px; 
+        border-radius: 5px !important; 
+    }
+    .editor .card-body .theme-wrp ul li a span {
+        width: 40px;
+        height: 40px;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    .editor .card-body .theme-wrp ul li { 
+        line-height: 18px; 
+    }
+    .editor .card-body .theme-wrp ul li a {
+        font-size: 14px; 
+        line-height: 18px; 
+    }
+    .editor .card-body label .lc span img {
+        width: 40px;
+    }
+    .theme-wrp i {
+        font-size: 15px; ;
+        margin-top: 5px; 
+    }
+    .theme ul {
+        margin-bottom: 50px !IMPORTANT;
+    }
+    .adding-email label span {  
+        font-size: 18px;
+    }
+    .adding-email label input { 
+        width: 100%;
+        height: 50px; 
+        padding-left: 35px; 
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+    .adding-email label i {
+        font-size: 14px;
+        display: block;
+    }
+    .adding-email a { 
+        margin-top: 80px; 
+    }
+    .adding-email a img {
+        margin-right: 10px;
+        width: 30px;
+    } 
+    .prices p { 
+        padding: 0px 70px;
+        height: 100px;
+        font-size: 18px; 
+    }
+    .adding-email { 
+        margin-bottom: 160px;
+        margin-top: 70px;
+    } 
+    .header-action ul li .nice-select {
+        width: 70px;
+        height: 40px;
+        line-height: 42px;
+        font-size: 15px;
+    }
+    .header-action ul li.poster-btn a {
+        padding: 0px 15px;
+        font-size: 14px;
+        margin-right: 10px;
+        font-weight: 500;
+        line-height: 38px;
+    }
+    .header-action ul li .nice-select ul.list li { 
+        font-size: 14px;
+    }
+
+
+
+
+
+}  
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+        body { 
+            font-size: 14px;
+        } 
+        .tps {
+            transform: scale(.7);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .outout { 
+            width: 59%;
+        } 
+        .menu-area nav ul li a {
+            font-size: 17px;
+            margin: 0 20px;
+        }
+        .header-action ul li .nice-select {
+            width: 90px;
+            height: 46px;
+            line-height: 50px;
+            font-size: 18px;
+            padding: 0;
+        }
+        .header-action ul li a i {
+            margin-right: 25px;
+            font-size: 20px;
+        }
+        .header-action ul li .nice-select ul.list li { 
+            font-size: 16px;
+        }
+        .menu-area nav ul li a:after { 
+            height: 5px; 
+            bottom: -15px; 
+        }
+        .how-its-work .section-title h1 {
+            font-size: 64px !important;
+            margin-bottom: 5px;
+        }
+        .section-title p {
+            font-size: 24px;
+        }
+        .works-blk img {
+            height: 100px;
+        }  
+    
+        .works-blk h5 {
+            padding-bottom: 25px;
+            font-size: 22px;
+            margin-top: 60px;
+        }
+        a.theme-btn {
+            height: 50px;
+            width: auto;
+            line-height: 55px;
+            font-size: 13px;
+            padding: 0 20px;
+        }
+        .works-blk a {
+            bottom: -20px;
+        }
+        .works-blk:hover {
+            padding-top: 90px; 
+        }
+        .how-its-work span.snape-two {
+            width: 90px;
+            height: 90px; 
+            top: 31%; 
+            right: 4%;
+        }
+        .top-steps {
+            height: 410px;
+        }
+        .how-its-work span.snape-one {
+            width: 80px;
+            height: 80px;
+            top: 3%;
+        }
+        .how-its-work {
+            padding-top: 110px;
+        }
+        .how-its-work:before {
+            width: 300px;
+            height: 300px;
+            top: 8%;
+            left: -150px;
+            border-radius: 50%;
+        }
+        .how-its-work:after {
+            width: 400px;
+            height: 400px;
+            top: 4%;
+            right: -200px;
+        }
+        .main-steps {
+            margin-top: 50px;
+        }
+        .step-desc {
+            padding-left: 25px;
+            padding-right: 50px;
+            padding-top: 35px;
+            padding-bottom: 10px;
+            margin-bottom: 40px;
+        }
+        .step-desc h4 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        .works-blk:hover h5 {
+            padding-bottom: 80px;
+        }
+         
+        .section-title h1 {
+            font-size: 40px;
+            margin-bottom: 0;
+        }
+    
+        .section-title span { 
+            margin-top: 30px;
+            line-height: 26px; 
+        }
+        .slider-item img {
+            width: 65px;
+            height: 65px;
+            margin-bottom: 25px;
+        }
+        .slider-item h4 {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        .slider-item span {
+            width: 20px;
+            height: 20px;
+            line-height: 20px;
+            font-size: 9px;
+            margin-top: -2px;
+        }
+        .slider-item h5 {
+            font-size: 12px;
+        }
+        .slider-item h5 ul li {
+            margin-left: 0px;
+        }
+        .slider-item h5 b {
+            letter-spacing: 3px;
+        }
+        .slider-item h5 ul li svg {
+            width: 15px;
+        }
+        .slider-item h5 ul li.last-icon svg {
+            width: 95px;
+            height: 110px;
+            transform: scale(.2); 
+            top: -41px;
+            left: -38px;
+        }
+        .slider-item {
+            padding: 35px;  
+        }
+        .slider-item img.snape {
+            margin-top: 10px;
+            margin-bottom: 25px;
+        }
+        .slider-item p {
+            font-size: 14px;
+            padding-right: 0px;
+            margin: 0;
+        }
+        .works-blk.active {
+            padding-top: 90px; 
+        }
+        .works-blk.active h5 {
+            padding-bottom: 80px;
+        }
+        button.slick-arrow {
+            left: 0;
+            transform: scale(.4) translateY(-50%);
+            top: 30%;
+        }
+        button.slick-next.slick-arrow { 
+            right: -20px;
+        }
+        .section-title {
+            margin-bottom: 60px;
+        } 
+        .testimonail-area {
+            margin-bottom: 0;
+            padding-top: 70px;
+            padding-bottom: 20px;
+        }
+        .footer-menu ul li a {
+            margin-left: 0px;
+            margin-right: 40px;
+        }
+        .copy-texts p { 
+            font-size: 13px;
+        }
+        .footer-content {
+            padding: 40px 0;
+        }
+        .copy-texts { 
+            padding: 20px 0;
+        }
+        .footer-logo a img {
+            width: 90%;
+        }
+        .Image-preview {
+            margin: 50px 0;
+        }
+        .geller-blk.mt-225 {
+            margin-top: 100px;
+        }
+        .works-blk {
+            padding-top: 50px; 
+        }
+        .step-items .img.sec span { 
+            bottom: -40px; 
+            transform: scale(.6);
+        } 
+        .main-steps .middle {
+            margin-top: 50px;
+        }
+        .cd-image-label { 
+            bottom: 40px;
+            right: 65px; 
+            width: 140px; 
+            height: 60px;
+            line-height: 62px; 
+        } 
+        .paying-detailse h3 {
+            font-size: 36px;
+            margin-top: 30px;
+            margin-bottom: 20px;
+        }
+        .paying-detailse h5 {
+            font-size: 16px;
+        } 
+        .paying-detailse h5 .price span { 
+            padding: 13px 21px;
+            margin-left: 20px;
+        } 
+        .paying-detailse h5 a {
+            min-width: 200px;
+            height: 50px;
+            line-height: 50px;
+            font-size: 14px;
+        }
+        .paying-detailse p {
+            margin-top: 40px;
+            margin-bottom: 50px;
+        }
+        .paying-detailse li h4 { 
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+        .paying-detailse li .nice-select {
+            width: 210px;
+            height: 40px;
+            line-height: 40px;
+            padding-left: 25px;
+            font-size: 16px;
+            margin-right: 20px;
+        }
+        .paying-detailse li .nice-select:after {
+            border-bottom: 2px solid #B6B6B8;
+            border-right: 2px solid #B6B6B8;
+            height: 10px;
+            margin-top: -6px;
+            right: 30px;
+            top: 50%;
+            width: 10px;
+        }
+        .paying-detailse li .nice-select ul li { 
+            font-size: 18px; 
+        }
+        .paying-detailse li input {
+            width: 210px;
+            height: 40px;
+            line-height: 40px;
+            padding-left: 25px;
+            font-size: 16px;
+        }
+        .paying-detailse a.theme-btn { 
+            margin-top: 60px;
+        } 
+        .tab-pane {
+            height: 450px;
+            border-radius: 20px;
+        } 
+        .img-gellery .nav li.nav-item {
+            width: 110px;
+            margin: 0 10px;
+            height: 110px;
+            border-radius: 15px;
+            margin-top: 20px;
+        }
+        ul#pills-tab {
+            justify-content: center;
+        }
+        .product-detailse {
+            padding-top: 100px;
+            padding-bottom: 70px;
+        }
+        .order-steps {
+            padding: 200px 0;
+            padding-bottom: 150px;
+        }
+        .order-single-blk {
+            padding: 30px 20px;
+            border-radius: 15px;
+        }
+        .order-single-blk span {
+            height: 70px;
+            min-width: 70px;
+            line-height: 70px;
+            font-size: 18px;
+            margin-right: 20px;
+        }
+         
+        .Bredcramp-area { 
+            height: 400px; 
+        }
+    
+        .bradcramp-text h1 {
+            font-size: 60px; 
+        }
+         
+        .cart-area {
+            padding: 100px 0;
+        }
+        .single-cart table thead tr th { 
+            padding-top: 30px;
+            padding-bottom: 30px;
+        }
+        .single-cart table tbody tr td {
+            padding-top: 15px;
+            padding-bottom: 15px;
+        }
+        .single-cart table tbody tr td img {
+            width: 90px;
+            height: 90px;
+            margin-right: 20px;
+        }
+        .single-cart table thead tr th:first-child {
+            padding-left: 50px;
+        }
+        .single-cart table thead tr th:last-child {
+            padding-right: 50px;
+        }
+        .single-cart table tbody tr td:first-child {
+            padding-left: 50px;
+        }
+        .single-cart table tbody tr td:last-child {
+            padding-right: 50px;
+        }
+        .single-cart table tbody tr td .cart-wrp h5 { 
+            font-size: 18px;
+        } 
+        .single-cart table tbody tr td .cart-wrp h5 span { 
+            margin-top: 5px;
+            font-size: 15px;
+        }
+        .nice-number button {
+            height: 25px;
+            width: 25px;
+            font-size: 21px;
+            line-height: 24px;
+            padding: 0;
+        }
+        .nice-number input[type="number"] {
+            min-width: 55px; 
+        }
+        .single-cart table tbody tr td a.trash {
+            height: 50px;
+            width: 50px;
+            line-height: 50px; 
+            margin-left: 0;
+        }
+        .single-cart table { 
+            margin-bottom: 40px;
+        }
+        .total-costs h4 {
+            margin: 0;
+            height: 50px;
+            line-height: 50px;
+            width: 290px;
+            border-radius: 15px;
+            font-size: 14px;
+        }
+        .total-costs h4 span {
+            margin-left: 50px;
+        }
+        .single-cart a.theme-btn.inactive {
+            margin-right: 10px; 
+        } 
+    .services-contain p {
+        padding-bottom: 10px;
+        font-size: 16px;
+        line-height: 30px;
+    } 
+    .services-area {
+        padding-top: 120px; 
+    } 
+    .services-contain h2 {
+        font-size: 22px;
+        margin-bottom: 30px;
+    } 
+    .services-contain {
+        margin-bottom: 80px;
+    } 
+    .accordion-area {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    } 
+   .btn.btn-link.collapsed {
+        font-size: 16px;
+        padding: 15px 40px;
+    }
+    .btn.btn-link { 
+        font-size: 16px;
+        padding: 15px 40px;
+    }
+      .accordion-area div#accordion span { 
+        right: 40px;
+        font-size: 30px;  
+      }
+      .card-body p {
+        padding: 10px 0;
+        margin-left: 50px;
+      } 
+      .card-body p:last-child {
+        padding-top: 0px;
+      } 
+    .contact-from p { 
+        font-weight: 400; 
+        margin-bottom: 15px;
+        margin-left: 30px;
+    }
+      
+    .contact-from ::placeholder { 
+        font-size: 16px; 
+        
+    }
+    .contact-from input { 
+        padding: 10px 30px;
+        margin-bottom: 30px;
+    }
+    .contact-from textarea.message { 
+        padding: 20px 30px;
+        min-height: 170px;
+    }
+    .contact-btn.btn {
+        height: 60px;
+        width: 220px;
+        line-height: 60px;
+        padding: 0px;
+        font-size: 20px;
+    }
+    textarea.message {
+        margin-bottom: 40px;
+    }
+    .Contact-us-area {
+        padding: 70px 0px;
+    } 
+    .hero-area .hero-slider .hero-item h1 { 
+        font-size: 35px;
+        line-height: 45px; 
+        margin-bottom: 30px;
+    }
+    .start-area img.stas { 
+        height: 500px;
+    }
+    .start-area { 
+        padding: 85px 0;  
+    }
+    .start-area img.img { 
+        left: 30%;
+        top: auto;
+        bottom: 0;
+        height: 600px;
+    }
+    .start-area img.img {
+        position: absolute;
+        z-index: -1;
+        left: 30%;
+        top: auto;
+        bottom: 0;
+        height: 470px;
+    }
+    .star-wrp h1 {
+        font-size: 38px; 
+        margin-bottom: 35px;
+    }
+    .star-wrp p { 
+        margin-bottom: 30px;
+        opacity: 70%;
+    }
+    .strock-title {
+        margin-bottom: -90px;
+        font-size: 116.67px; 
+    }
+    .designed-area {
+        padding-top: 50px;
+    }
+    .designed-wrp .designed-item img { 
+        height: 50px;
+        margin-left: 10px;
+        margin-bottom: 30px;
+    }
+    .designed-wrp .designed-item h3 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .designed-wrp .designed-item { 
+        border-radius: 50px;
+        padding: 20px;
+        margin-bottom: 35px;
+    }
+    .designed-wrp .owl-item.center .designed-item {
+        margin-top: 40px; 
+    }
+    .designed-wrp {
+        height: 360px;
+    }
+    .header-top p { 
+        font-size: 14px;
+        padding: 10px 0; 
+    }
+    .comprises-area .first-step img { 
+        top: 40px;
+        height: 600px;
+    }
+    .first-step .comprises-wrp {
+        padding-left: 0;
+        padding-top: 100px;
+    }
+    .comprises-wrp h3 { 
+        font-size: 36px;
+        margin-bottom: 25px;
+    }
+    .comprises-wrp p {
+        margin-bottom: 20px;
+    }
+    .second-step .comprises-wrp {
+        padding-top: 50px;
+        padding-bottom: 100px;
+        padding-right: 00px;
+    }
+    .second-step img { 
+        top: 0;
+        height: 508px;
+        left: 0;
+    }
+    .second-step {
+        margin-top: 170px;
+        position: relative;
+    } 
+    .testimonail-area .section-title {
+        margin-bottom: 200px;
+    }
+    .slider-item {
+        padding: 20px;
+        padding-top: 50px; 
+        border-radius: 20px; 
+        margin: 0 10px; 
+    }
+    .slider-item img:first-child { 
+        top: -35px;
+    }
+    .instagram-area {
+        padding: 50px 0;
+        padding-top: 60px;
+    }
+    .instagram-area h1 {
+        font-size: 30px;
+    }
+    
+    .instagram-area .section-title {
+        margin-bottom: 35px;
+    }
+    .features-area {
+        padding: 60px 0;
+        padding-bottom: 30px;
+    }
+    .all-blks .feature-blk {
+         margin-left: 0px; 
+         width: 50%;
+        margin-bottom: 30px;
+    }
+    .all-blks {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .feature-blk span {
+        font-size: 42px;
+        margin-right: 24px;
+    }
+    .feature-blk h4 {
+        font-size: 22px; 
+        margin: 0;
+    }
+    .feature-blk h4 p {
+        font-size: 18px; 
+        margin-top: 5px;
+        margin-bottom: 0px; 
+    }
+    .footer-social ul li a {
+        width: 35px;
+        height: 35px; 
+        line-height: 35px; 
+        font-size: 18px;
+        margin-left: 20px;
+    }
+    .card { 
+        margin-bottom:20px;
+      }
+
+      .single-cart.Payment .couppon-code input { 
+        height: 50px; 
+    }
+    .shoping-method { 
+        padding: 90px 0;
+    }
+    input[type=checkbox] + label { 
+        border-radius: 10px;
+        padding: 30px 30px 30px 70px; 
+    }
+    input[type=checkbox] + label:before { 
+        font-size: 12px;
+        width: 20px;
+        height: 20px; 
+        line-height: 20px; 
+        left: 20px;
+    }
+    .method-blk h5 {
+        font-size: 15px; 
+    }
+    .method-blk p {
+        margin: 0;
+        margin-top: 20px;
+        line-height: 22px;
+    }
+    input[type=checkbox] + label {
+        border-radius: 10px;
+        padding: 30px 25px 30px 50px;
+    }
+    .billin-details-area {
+        padding: 90px 0;
+    }
+    .contact-from.billing .card label { 
+        padding-left: 40px; 
+    }
+    .contact-from.billing .card {
+        margin-bottom: 30px;
+    }
+    .privacy-wrp p {
+        font-size: 16px;
+        font-weight: 200; 
+        line-height: 22.17px; 
+        margin: 0;
+    }
+    .privacy-wrp { 
+        padding: 50px;
+    }
+    label.allterms { 
+        padding: 40px 0px 40px 30px !important;
+    }
+
+ 
+    .contact-from.billing .checkboxes-and-radios {
+        padding-left: 50px;
+    }
+    .checkboxes-and-radios span { 
+        margin-left: 15px; 
+    }  
+    .outout img {
+        margin: 30px 30px;
+        max-width: 100%;
+        width: 400px;
+    } 
+    .editor .card .card-header button { 
+        padding-left: 40px; 
+    }
+    .editor .card .card-header button img {
+        margin-right: 25px;
+        width: 40px;
+    }
+    .editor .card .btn.btn-link.collapsed span {
+        font-size: 18px;
+        top: 11px;
+        left: 30px;
+        transform: rotate( -90deg );
+    }
+    .editor .card .btn.btn-link span {
+        font-size: 18px;
+        top: 13px;
+        left: 28px;
+        transform: rotate(  0deg );
+    } 
+    .editor .card-body {
+        padding: 40px 40px;
+        border-bottom: 1px solid #bec5ce;
+    } 
+    .editor .card-body ::placeholder { 
+        font-size: 16px; 
+        
+      }
+      .l-message h3 span { 
+        font-size: 17px;
+    }
+      .editor .card-body .nice-select {
+        font-size: 16px; 
+        height: 50px;
+        line-height: 50px;
+        padding-left: 20px;
+        padding-right: 60px;
+        margin-right: 15px; 
+    }
+    .editor .card-body .nice-select:after {
+        border-bottom: 2px solid #273d5d;
+        border-right: 2px solid #273d5d;
+        height: 10px;
+        margin-top: -5px;
+        right: 18px;
+        width: 10px;
+    }
+    .editor .card-body label { 
+        font-size: 16px; 
+    }
+    .l-message h3 { 
+        font-size: 20px;
+    }
+    .l-message textarea { 
+        min-height: 200px; 
+    }
+    div#collapseOnet .card-body .style-icon span {
+        min-width: 95px;
+        height: 130px;
+        padding: 5px;
+        border: 2px solid #0000;
+        font-size: 60px;
+    }
+    .elements h3 { 
+        height: 80px;
+        line-height: 80px; 
+        padding-left: 70px; 
+        font-size: 16px;
+    }   
+    .theme ul li a {
+        padding: 0 25px;
+        height: 50px;
+        line-height: 50px; 
+        border-radius: 5px !important; 
+    }
+    .editor .card-body .theme-wrp ul li a span {
+        width: 40px;
+        height: 40px;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    .editor .card-body .theme-wrp ul li { 
+        line-height: 18px; 
+    }
+    .editor .card-body .theme-wrp ul li a {
+        font-size: 14px; 
+        line-height: 18px; 
+    }
+    .editor .card-body label .lc span img {
+        width: 40px;
+    }
+    .theme-wrp i {
+        font-size: 15px; ;
+        margin-top: 5px; 
+    }
+    .theme ul {
+        margin-bottom: 50px !IMPORTANT;
+    }
+    .adding-email label span {  
+        font-size: 18px;
+    }
+    .adding-email label input { 
+        width: 100%;
+        height: 50px; 
+        padding-left: 35px; 
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+    .adding-email label i {
+        font-size: 14px;
+        display: block;
+    }
+    .adding-email a { 
+        margin-top: 50px; 
+    }
+    .adding-email a img {
+        margin-right: 10px;
+        width: 30px;
+    } 
+    .prices p {
+        padding: 0px 70px;
+        height: 68px;
+        font-size: 16px;
+    }
+    .adding-email { 
+        width: 80%;
+        margin-bottom: 130px;
+        margin-top: 50px;
+    }
+    .header-action ul li .nice-select {
+        width: 55px;
+        height: 39px;
+        line-height: 42px;
+        font-size: 12px;
+        border-radius: 5px;
+    }
+    .header-action ul li.poster-btn a {
+        padding: 0px 10px;
+        font-size: 12px;
+        margin-right: 5px;
+        font-weight: 500;
+        line-height: 38px;
+        border: 1px solid #4a51db;
+    }
+    .header-action ul li .nice-select ul.list li { 
+        font-size: 12px;
+        padding-left: 5px;
+    }
+
+
+
+ 
+
+
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    body { 
+        font-size: 14px;
+        } 
+        .menu-area nav ul li a {
+            font-size: 17px;
+            margin: 0 10px;
+        }
+        .header-action ul li .nice-select {
+            display: none;
+        }
+        .header-action ul li a i {
+            margin-right:0px;
+            font-size: 28px;
+        } 
+        .menu-area nav ul li a:after { 
+            height: 5px; 
+            bottom: -15px; 
+        }
+        .how-its-work .section-title h1 {
+            font-size: 44px !important;
+            margin-bottom: 5px;
+        }
+        .section-title p {
+            font-size: 18px;
+        }
+        .works-blk img {
+            height: 60px;
+        }  
+        .works-blk h5 {
+            padding: 0 20px;
+            padding-bottom: 25px;
+            font-size: 18px;
+            margin-top: 35px;
+        }
+        a.theme-btn {
+            height: 40px;
+            width: auto;
+            padding: 0 20px;
+            line-height: 45px;
+            font-size: 13px;
+        }
+        .strock-title {
+            margin-bottom: -90px;
+            font-size: 116.67px; 
+        }
+        .designed-area {
+            padding-top: 50px;
+        }
+        .works-blk a {
+            bottom: -20px;
+        }
+        .works-blk:hover {
+            padding-top: 90px; 
+        }
+        .how-its-work span.snape-two {
+            width: 90px;
+            height: 90px; 
+            top: 31%; 
+            right: 4%;
+        }
+        .top-steps {
+            height: 410px;
+        }
+        .how-its-work span.snape-one {
+            width: 80px;
+            height: 80px;
+            top: 3%;
+        }
+        .how-its-work {
+            padding-top: 110px;
+        }
+        .how-its-work:before {
+            width: 300px;
+            height: 300px;
+            top: 8%;
+            left: -150px;
+            border-radius: 50%;
+        }
+        .how-its-work:after {
+            width: 400px;
+            height: 400px;
+            top: 4%;
+            right: -200px;
+        }
+        .main-steps {
+            margin-top: 50px;
+        }
+        .step-desc {
+            padding-left: 25px;
+            padding-right: 50px;
+            padding-top: 35px;
+            padding-bottom: 10px;
+            margin-bottom: 40px;
+        }
+        .step-desc h4 {
+            font-size: 17px;
+            margin-bottom: 10px;
+        }
+        .works-blk:hover h5 {
+            padding-bottom: 80px;
+        }
+         
+        .container, .container-lg, .container-md, .container-sm, .container-xl {
+            max-width: 1450px;
+        }
+         
+        .section-title h1 {
+            font-size: 32px;
+            margin-bottom: 0;
+        }
+        .section-title span {
+            margin-top: 15px;
+            line-height: 26px;
+        }
+        .slider-item img {
+            width: 65px;
+            height: 65px;
+            margin-bottom: 25px;
+        }
+        .slider-item h4 {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        .slider-item span {
+            width: 20px;
+            height: 20px;
+            line-height: 20px;
+            font-size: 9px;
+            margin-top: -2px;
+        }
+        .slider-item h5 {
+            font-size: 12px;
+        }
+        .slider-item h5 ul li {
+            margin-left: 0px;
+        }
+        .slider-item h5 b {
+            letter-spacing: 3px;
+        }
+        .slider-item h5 ul li svg {
+            width: 15px;
+        }
+        .slider-item h5 ul li.last-icon svg {
+            width: 95px;
+            height: 110px;
+            transform: scale(.2); 
+            top: -41px;
+            left: -38px;
+        }
+        .slider-item {
+            padding: 35px;  
+        }
+        .slider-item img.snape {
+            margin-top: 10px;
+            margin-bottom: 25px;
+        }
+        .slider-item p {
+            font-size: 14px;
+            padding-right: 0px;
+            margin: 0;
+        }
+        .works-blk.active {
+            padding-top: 90px; 
+        }
+        .works-blk.active h5 {
+            padding-bottom: 80px;
+        }
+        button.slick-arrow {
+            left: 0;
+            transform: scale(.4) translateY(-50%);
+            top: 30%;
+        }
+        button.slick-next.slick-arrow { 
+            right: -20px;
+        }
+        .section-title {
+            margin-bottom: 60px;
+        } 
+        .middle img {
+            height: 500px;
+            object-position: top;
+        } 
+        .testimonail-area { 
+            margin-bottom: 0;
+            padding: 70px 0;
+            padding-bottom: 20px;
+        }
+        .testimonail-area .section-title {
+            margin-bottom: 200px;
+        }
+        .footer-menu ul li a {
+            margin-left: 0px;
+            margin-right: 30px;
+        }
+        .copy-texts p { 
+            font-size: 13px;
+        }
+        .footer-content {
+            padding: 30px 0;
+        }
+        .copy-texts {
+            padding: 10px 0;
+            text-align: center;
+        }
+        .footer-logo a img {
+            width: 300px;
+            margin: auto;
+            display: block;
+        }
+        .Image-preview {
+            margin-top: -25px;
+            margin-bottom: 80px;
+        }
+        .geller-blk.mt-225 {
+            margin-top: 100px;
+        }
+        .works-blk {
+            padding-top: 50px; 
+        }
+        .step-items .img.sec span { 
+            bottom: -40px; 
+            transform: scale(.6);
+            left: -2%;
+        } 
+        .main-steps .middle {
+            margin-top: 50px;
+        }
+        .cd-image-label { 
+            bottom: 40px;
+            right: 65px; 
+            width: 140px; 
+            height: 60px;
+            line-height: 62px; 
+        }
+        .step-items .img.sec img {
+            height: unset;
+        }
+        .paying-detailse h3 {
+            font-size: 36px;
+            margin-top: 50px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .paying-detailse h5 {
+            font-size: 16px;
+        } 
+        .paying-detailse h5 .price span { 
+            padding: 13px 21px;
+            margin-left: 20px;
+        } 
+        .paying-detailse h5 a {
+            min-width: 200px;
+            height: 50px;
+            line-height: 50px;
+            font-size: 14px;
+        }
+        .paying-detailse p {
+            margin-top: 40px;
+            margin-bottom: 50px;
+        }
+        .paying-detailse li h4 { 
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+        .paying-detailse li .nice-select {
+            width: 240px;
+            height: 40px;
+            line-height: 40px;
+            padding-left: 25px;
+            font-size: 16px;
+            margin-right: 20px;
+        }
+        .paying-detailse li .nice-select:after {
+            border-bottom: 2px solid #B6B6B8;
+            border-right: 2px solid #B6B6B8;
+            height: 10px;
+            margin-top: -6px;
+            right: 30px;
+            top: 50%;
+            width: 10px;
+        }
+        .paying-detailse li .nice-select ul li { 
+            font-size: 18px; 
+        }
+        .paying-detailse li input {
+            width: 210px;
+            height: 40px;
+            line-height: 40px;
+            padding-left: 25px;
+            font-size: 16px;
+        }
+        .paying-detailse a.theme-btn { 
+            margin-top: 60px;
+        } 
+        .tab-pane {
+            height: 450px;
+            border-radius: 20px;
+        } 
+        .img-gellery .nav li.nav-item {
+            width: 110px;
+            margin: 0 10px;
+            height: 110px;
+            border-radius: 15px;
+            margin-top: 20px;
+        }
+        ul#pills-tab {
+            justify-content: center;
+        }
+        .product-detailse {
+            padding-top: 70px;
+            padding-bottom: 70px;
+        }
+        .order-steps {
+            padding: 200px 0;
+            padding-bottom: 150px;
+        }
+        .order-single-blk {
+            padding: 30px 20px;
+            border-radius: 15px;
+        }
+        .order-single-blk span {
+            height: 70px;
+            min-width: 70px;
+            line-height: 70px;
+            font-size: 18px;
+            margin-right: 20px;
+        }
+         
+        .Bredcramp-area { 
+            height: 350px; 
+        }
+    
+        .bradcramp-text h1 {
+            font-size: 40px; 
+        }
+         
+        .mobile-menu { 
+            padding-top: 50px;  
+          }
+          .container, .container-md, .container-sm {
+            max-width: 720px;
+        } 
+        .cart-area {
+            padding: 100px 0;
+        }
+        .single-cart table thead tr th { 
+            padding: 30px 0; 
+        }
+        .single-cart table tbody tr td {
+            padding-top: 15px;
+            padding-bottom: 15px;
+        }
+        .single-cart table tbody tr td img {
+            width: 60px;
+            height: 60px;
+            margin-right: 10px;
+        }
+        .single-cart table thead tr th:first-child {
+            padding-left: 20px;
+        }
+        .single-cart table thead tr th:last-child {
+            padding-right: 20px;
+        }
+        .single-cart table tbody tr td:first-child {
+            padding-left: 20px;
+        }
+        .single-cart table tbody tr td:last-child {
+            padding-right: 20px;
+        }
+        .single-cart table tbody tr td .cart-wrp h5 { 
+            font-size: 14px;
+        } 
+        .single-cart table tbody tr td .cart-wrp h5 span { 
+            margin-top: 5px;
+            font-size: 13px;
+        }
+        .nice-number button {
+            height: 30px;
+            width: 30px;
+            font-size: 24px;
+            line-height: 28px;
+        }
+        .nice-number input[type="number"] {
+            min-width: 40px; 
+        }
+        .single-cart table tbody tr td a.trash {
+            height: 35px;
+            width: 35px;
+            line-height: 35px;
+            margin-left: 15px;
+        }
+        .single-cart table { 
+            margin-bottom: 40px;
+        }
+        .total-costs h4 {
+            margin: 0;
+            height: 50px;
+            line-height: 50px;
+            width: 240px;
+            border-radius: 10px;
+            font-size: 14px;
+        }
+        .total-costs h4 span {
+            margin-left: 50px;
+        } 
+        .services-area {
+            padding-top: 80px; 
+        } 
+        .single-cart a.theme-btn.inactive {
+            margin-right: 10px; 
+        }
+        .services-contain h2 {
+            font-size: 22px;
+            margin-bottom: 30px;
+        } 
+        .services-contain p {
+            padding-bottom: 0px;
+            font-size: 14px;
+            line-height: 24px;
+        }
+        .services-contain {
+            margin-bottom: 80px;
+        } 
+        .accordion-area {
+            padding-top: 70px;
+            padding-bottom: 70px;
+        } 
+       .btn.btn-link.collapsed {
+            font-size: 16px;
+            padding: 10px 40px;
+        }
+        .btn.btn-link { 
+            font-size: 16px;
+            padding: 10px 40px;
+        }
+          .accordion-area div#accordion span { 
+            right: 40px;
+            font-size: 30px;  
+          }
+          .card-body p {
+            padding: 10px 0;
+            margin-left: 50px;
+          } 
+          .card-body p:last-child {
+            padding-top: 0px;
+          } 
+        .contact-from p { 
+            font-weight: 400; 
+            margin-bottom: 15px;
+            margin-left: 30px;
+        }
+          
+        .contact-from ::placeholder { 
+            font-size: 16px; 
+            
+        }
+        .contact-from input { 
+            padding: 10px 30px;
+            margin-bottom: 30px;
+        }
+        .contact-from textarea.message { 
+            padding: 20px 30px;
+            min-height: 170px;
+        }
+        .contact-btn.btn {
+            height: 60px;
+            width: 220px;
+            line-height: 60px;
+            padding: 0px;
+            font-size: 20px;
+        }
+        textarea.message {
+            margin-bottom: 40px;
+        }
+        .Contact-us-area {
+            padding: 70px 0px;
+        }
+
+        .all-blks .feature-blk {
+            margin-left: 0px; 
+            width: 50%;
+           margin-bottom: 30px;
+       }
+       .all-blks {
+           display: flex;
+           flex-wrap: wrap;
+       }
+       .hero-area .hero-slider .hero-item h1 { 
+        font-size: 30px;
+        line-height: 44px; 
+        margin-bottom: 30px;
+    }
+    .header-top p { 
+        font-size: 18px;
+        padding: 15px 0; 
+    }
+    .start-area img {
+        width: 100%;
+        margin-bottom: 150px;
+    }
+    .start-area { 
+        padding: 95px 0; 
+    }
+    .star-wrp {
+        text-align: center;
+    } 
+    .star-wrp h1 {
+        font-size: 46px; 
+        margin-bottom: 28px;
+    }
+    .star-wrp p { 
+        margin-bottom: 20px; 
+    }
+    .designed-wrp .designed-item { 
+        border-radius: 20px;
+        padding: 25px; 
+    }
+    .designed-wrp .designed-item img { 
+        height: 50px;
+        margin-left: 10px;
+        margin-bottom: 40px;
+    }
+    .designed-wrp .designed-item h3 {
+        font-size: 16px;
+        margin-bottom: 16px;
+    }
+    .designed-wrp .owl-item.center .designed-item {
+        margin-top: 50px; 
+    }
+    .designed-wrp {
+        height: 420px;
+    }
+    .comprises-area .first-step img {
+        position: unset; 
+        width: 100%;
+    }
+    .first-step .comprises-wrp {
+        padding-left: 0px;
+        padding-top: 80px;
+    }
+    .comprises-wrp h3 { 
+        font-size: 46px;
+        margin-bottom: 40px;
+    }
+    .comprises-wrp p {
+        margin-bottom: 25px;
+    }
+    .first-step .comprises-wrp h1.strock-title {
+        margin-left: 0px;
+    }
+    .second-step img {
+        position: unset;
+        width: 100%;
+        top: 0;
+        left: 0;
+    }
+    .second-step .comprises-wrp {
+        padding-top: 50px;
+        padding-bottom: 100px;
+        padding-right: 200px;
+    }
+    .instagram-area {
+        padding: 50px 0;
+        padding-top: 70px;
+    }
+    .instagram-area .section-title {
+        margin-bottom: 30px;
+    }
+    .features-area { 
+        padding: 50px 0;
+        padding-bottom: 20px;
+    } 
+    .feature-blk span {
+        font-size: 34px;
+        margin-right: 25px;
+    }
+    .feature-blk h4 {
+        font-size: 18px; 
+    }
+    .feature-blk h4 p {
+        font-size: 13px;
+        font-weight: 400;
+        margin-top: 5px;
+        margin-bottom: 0px;
+        display: block;
+    }
+    .footer-social ul li a {
+        width: 35px;
+        height: 35px; 
+        line-height: 35px; 
+        transition: .3s;
+        font-size: 18px;
+        margin-left: 15px;
+    } 
+    .card { 
+        margin-bottom: 15px;
+      }
+      .single-cart.Payment .couppon-code input { 
+        height: 40px; 
+    }
+    .single-cart.Payment .couppon-code {
+        padding-left: 20px;
+    }
+    .shoping-method { 
+        padding: 60px 0;
+    }
+    input[type=checkbox] + label { 
+        border-radius: 10px;
+        padding: 30px 30px 30px 55px; 
+    }
+    .method-blk h5 {
+        font-size: 16px; 
+    }
+    .method-blk p {
+        margin: 0;
+        margin-top: 10px;
+        line-height: 22px;
+    }
+    input[type=checkbox] + label:before { 
+        font-size: 12px;
+        width: 20px;
+        height: 20px; 
+        line-height: 20px; 
+        left: 20px;
+    }
+    .billin-details-area {
+        padding: 60px 0;
+    }
+    .contact-from.billing .card label { 
+        padding-left: 35px; 
+    }
+    .contact-from.billing .card {
+        margin-bottom: 30px;
+    }
+    .contact-from.billing .btn.btn-link  {
+        font-size: 16px;
+        padding: 15px 40px;
+    }
+    .privacy-wrp { 
+        padding: 40px;
+        margin-top: 20px;
+    }
+    .contact-from.billing .card-body {
+        margin: 30px;
+        padding: 0;
+    }
+    .contact-from.billing .card-body h4 { 
+        padding: 20px;
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+    .privacy-wrp p {
+        font-size: 16px;
+        font-weight: 200; 
+        line-height: 22.17px; 
+        margin: 0;
+    }
+    label.allterms { 
+        padding: 30px 0px 30px 30px !important;
+    } 
+    .contact-from.billing .checkboxes-and-radios {
+        padding-left: 30px;
+    }
+    .checkboxes-and-radios span { 
+        margin-left: 15px; 
+    } 
+    .editor-area {
+        display: block; 
+    }
+    .editor {
+        min-width: 100%;
+        max-width: 100%;
+    }
+    .outout img {
+        margin: 50px 30px;
+        max-width: 100%;
+        width: 400px;
+    }
+    .editor .card .card-header button { 
+        padding-left: 40px; 
+    }
+    .editor .card .card-header button img {
+        margin-right: 25px;
+        width: 40px;
+    }
+    .editor .card .btn.btn-link.collapsed span {  
+        font-size: 26px;
+    }
+    .editor .card .btn.btn-link span {  
+        font-size: 26px;
+    }
+    .editor .card-body {
+        padding: 40px 40px;
+        border-bottom: 1px solid #bec5ce;
+    } 
+    .l-message h3 span { 
+        font-size: 17px;
+    }
+    .editor .card-body .nice-select {
+        font-size: 16px; 
+        height: 50px;
+        line-height: 50px;
+        padding-left: 20px;
+        padding-right: 60px;
+        margin-right: 15px; 
+    }
+    .editor .card-body .nice-select:after {
+        border-bottom: 2px solid #273d5d;
+        border-right: 2px solid #273d5d;
+        height: 10px;
+        margin-top: -5px;
+        right: 18px;
+        width: 10px;
+    }
+    .editor .card-body label { 
+        font-size: 16px; 
+    }
+    .l-message h3 { 
+        font-size: 20px;
+    }
+    .l-message textarea { 
+        min-height: 200px; 
+    }
+    div#collapseOnet .card-body .style-icon span {
+        min-width: 95px;
+        height: 130px;
+        padding: 5px;
+        border: 2px solid #0000;
+        font-size: 60px;
+    }
+    .elements h3 { 
+        height: 80px;
+        line-height: 80px; 
+        padding-left: 70px; 
+        font-size: 16px;
+    } 
+    .theme ul li a {
+        padding: 0 25px;
+        height: 50px;
+        line-height: 50px; 
+        border-radius: 5px !important; 
+    }
+    .editor .card-body .theme-wrp ul li a span {
+        width: 40px;
+        height: 40px;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    .editor .card-body .theme-wrp ul li { 
+        line-height: 18px; 
+    }
+    .editor .card-body .theme-wrp ul li a {
+        font-size: 14px; 
+        line-height: 18px; 
+    }
+    .editor .card-body label .lc span img {
+        width: 40px;
+    }
+    .theme-wrp i {
+        font-size: 15px; ;
+        margin-top: 5px; 
+    }
+    .theme ul {
+        margin-bottom: 50px !IMPORTANT;
+    }
+    .adding-email label span {  
+        font-size: 18px;
+    }
+    .adding-email label input { 
+        width: 100%;
+        height: 50px; 
+        padding-left: 35px; 
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+    .adding-email label i {
+        font-size: 14px;
+        display: block;
+    }
+    .adding-email a { 
+        margin-top: 50px; 
+    }
+    .adding-email a img {
+        margin-right: 10px;
+        width: 30px;
+    } 
+    .prices p {
+        padding: 0px 70px;
+        height: 68px;
+        font-size: 16px;
+    }
+    .adding-email { 
+        width: 80%;
+        margin-bottom: 130px;
+        margin-top: 50px;
+    } 
+    .header-action ul li.poster-btn a { 
+        padding: 0px 21px; 
+        font-size: 15px;
+        margin-right: 0;   
+        line-height: 45px; 
+    }
+    .tps {
+        transform: scale(.8);
+    }
+    
+    .tps .thePoster {
+        margin-left: -30px;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+.editor div#accordionExample {
+    position: relative;
+    padding-top: 50px;
+}
+
+.editor .card {
+    position: static;
+    overflow: unset !IMPORTANT;
+} 
+.editor .card .card-header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 25% !important;
+} 
+.editor .card div#headingOnet {
+    left: 25%;
+}
+.editor .card div#headingOneth {
+    left: 50%;
+}
+.editor .card div#headingOnef {
+    left: 75%;
+}
+.editor .card .btn.btn-link.collapsed span {
+    top: auto;
+    bottom: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #2F394B;
+    height: 4px;
+    width: 30px;
+    overflow: hidden;
+    color: transparent;
+    border-radius: 10px;
+    opacity: 0;
+} 
+.editor .card .btn.btn-link span {
+    top: auto;
+    bottom: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #2F394B;
+    height: 4px;
+    width: 30px;
+    overflow: hidden;
+    color: transparent;
+    border-radius: 10px;
+    opacity: 1;
+}
+.editor .card .card-header button.btn.btn-link.collapsed {
+    padding: 15px 5px !important;
+    text-align: center !important;
+    font-size: 12px;
+    font-weight: 700 !important;
+}
+.editor .card .card-header button.btn.btn-link {
+    padding: 15px 5px !important;
+    text-align: center !important;
+    font-size: 12px;
+    font-weight: 900 !important;
+}
+
+.prices {
+    position: unset;
+    width: 90%;
+    margin: auto;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 0 8px #bd998d1f;
+    margin-top: 40px;
+} 
+div#collapseOnef .card-body {
+    padding: 20px 40px;
+}
+.thePoster[data-orientation="sizePortrait"]{
+    margin:auto
+}
+.editor .card-body .location label.SelectionsHere { 
+    width: 40%;
+}
+
+
+
+
+
+
+
+
+
+
+
+    
+}
+
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    body { 
+        font-size: 14px;
+        } 
+        .menu-area nav ul li a {
+            font-size: 17px;
+            margin: 0 10px;
+        }
+        .header-action ul li .nice-select {
+            display: none;
+        }
+        .header-action ul li a i {
+            margin-right: 0;
+            font-size: 20px;
+        }
+        .header-top p span {
+            margin: 5px;
+        }
+        .header-top p { 
+            padding: 15px 0;
+            font-size: 13px;
+        }
+        .menu-area nav ul li a:after { 
+            height: 5px; 
+            bottom: -15px; 
+        }
+        .how-its-work .section-title h1 {
+            font-size: 32px !important;
+            margin-bottom: 2px;
+        }
+        .section-title p {
+            font-size: 14px;
+        }
+        .section-title p {
+            font-size: 16px;
+        }
+        a.humg-btn { 
+            transform: scale(.7);
+        }
+        .works-blk img {
+            height: 60px;
+        }  
+        .works-blk h5 {
+            padding: 0 10px;
+            padding-bottom: 25px;
+            font-size: 16px;
+            margin-top: 35px;
+        }
+        a.theme-btn {
+            height: 40px;
+            line-height: 45px;
+            font-size: 13px;
+            width: max-content;
+            padding: 0 30px;
+        }
+        .works-blk a {
+            bottom: -20px;
+        }
+        .works-blk:hover {
+            padding-top: 90px; 
+        }
+        .how-its-work span.snape-two {
+            width: 90px;
+            height: 90px; 
+            top: 31%; 
+            right: 4%;
+        }
+        .top-steps {
+            height: auto;
+        }
+        .how-its-work span.snape-one {
+            width: 80px;
+            height: 80px;
+            top: 5%;
+            transform: scale(.6);
+        }
+        .how-its-work {
+            padding-top: 70px;
+        }
+        .how-its-work:before {
+            width: 300px;
+            height: 300px;
+            top: 8%;
+            left: -150px;
+            border-radius: 50%; 
+            transform: scale(.6);
+        } 
+        .how-its-work:after {
+            width: 400px;
+            height: 400px;
+            top:2%;
+            right: -200px;
+            transform: scale(.6);
+        }
+        .main-steps {
+            overflow: hidden;
+            margin-top: 0px; 
+            width: 100%;
+            margin-top: 50px;
+            margin-bottom: 45px;
+        }  
+        .step-items {
+            box-shadow: 0px 15px 20px -1px #00000008;
+            border-radius: 25px;
+        }
+        .step-desc {
+            padding-left: 25px;
+            padding-right: 50px;
+            padding-top: 35px;
+            padding-bottom: 10px;
+            margin-bottom: 40px;
+        }
+        .m-b {
+            margin-bottom: 10px;
+        }
+        .step-desc h4 {
+            font-size: 17px;
+            margin-bottom: 10px;
+        }
+        .works-blk:hover h5 {
+            padding-bottom: 80px;
+        }
+         
+        .container, .container-lg, .container-md, .container-sm, .container-xl {
+            max-width: 1450px;
+        }
+         
+        .slick-list {
+            left: 0 !important;
+            overflow: unset;
+            padding: 0 0;
+        }
+        .testimonial-slider {
+            height: 400px;
+        } 
+        .bottom-gallery span.snape-two {
+            width: 60px;
+            height: 60px;
+            bottom: 2%;
+            right: 25%;
+        }
+        .section-title h1 {
+            font-size: 28px;
+            margin-bottom: 0;
+        }
+        .section-title span {
+            margin-top: 15px;
+            line-height: 26px;
+        }
+        .slider-item img {
+            width: 65px;
+            height: 65px;
+            margin-bottom: 25px;
+        }
+        .slider-item h4 {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        .slider-item span {
+            width: 20px;
+            height: 20px;
+            line-height: 20px;
+            font-size: 9px;
+            margin-top: -2px;
+        }
+        .slider-item h5 {
+            font-size: 12px;
+        }
+        .slider-item h5 ul li {
+            margin-left: 0px;
+        }
+        .slider-item h5 b {
+            letter-spacing: 3px;
+        }
+        .slider-item h5 ul li svg {
+            width: 15px;
+        }
+        .slider-item h5 ul li.last-icon svg {
+            width: 95px;
+            height: 110px;
+            transform: scale(.2); 
+            top: -41px;
+            left: -38px;
+        }
+        .slider-item {
+            padding: 30px;
+            padding-top: 50px;
+            border-radius: 20px;
+            margin: 0 0px;  
+        }
+        .testimonail-area .section-title {
+            margin-bottom: 100px;
+        }
+        .slider-item img.snape {
+            margin-top: 10px;
+            margin-bottom: 25px;
+        }
+        .slider-item p {
+            font-size: 14px;
+            padding-right: 0px;
+            margin: 0;
+        }
+        .works-blk.active {
+            padding-top: 90px; 
+        }
+        .works-blk.active h5 {
+            padding-bottom: 80px;
+        }
+        button.slick-arrow {
+            display: none !important;
+        } 
+        .section-title {
+            margin-bottom: 60px;
+        } 
+        .middle img {
+            height: 500px;
+            object-position: top;
+        } 
+        .testimonail-area { 
+            margin-bottom: 30px;
+            padding: 70px 0;
+        }
+        .footer-menu ul li a {
+            margin: 0px 5px;
+            font-size: 11px;
+        }
+        .copy-texts p { 
+            font-size: 13px;
+        }
+        .footer-content {
+            padding: 20px 0;
+        }
+        .copy-texts p {
+            font-size: 12px;
+        }
+        .copy-texts {
+            padding: 15px 0;
+            text-align: center;
+        }
+        .footer-logo a img {
+            width: 210px;
+            margin: auto;
+            display: block;
+        }
+        .Image-preview {
+            margin-top: -25px;
+            margin-bottom: 80px;
+        }
+        .geller-blk.mt-225 {
+            margin-top: 100px;
+        }
+        .works-blk {
+            padding-top: 50px;
+            text-align: center;
+            margin-bottom: 50px !important;
+            border: 1px solid #eeeeee70;
+            width: 90%;
+            margin: auto;
+            border-radius: 20px;
+        }
+        .step-items .img.sec span { 
+            bottom: -40px; 
+            transform: scale(.6);
+            left: -2%;
+        } 
+        .main-steps .middle {
+            margin-top: 50px;
+        }
+        .cd-image-label {
+            bottom: 10px;
+            right: 10px;
+            width: 75px;
+            height: 35px;
+            line-height: 35px;
+            font-size: 12px;
+        }
+        .cd-resize-img .cd-image-label {
+            right: auto;
+            left: 10px;
+        }
+        .step-items .img.sec img {
+            height: unset;
+        }
+      
+        .works-blk img {
+            width: 95px !important;
+            margin: auto;
+            height: 90px;
+        }
+        .works-blk:hover {
+            padding-top: 50px;
+        }
+        .works-blk h5 {
+            padding-bottom: 50px;
+        }
+        .works-blk:hover h5 {
+            padding-bottom: 50px;
+        }
+        .works-blk a {
+            visibility: visible;
+            opacity: 1;
+            width: 180px;
+        } 
+        .paying-detailse h3 {
+            font-size: 26px;
+            margin-top: 50px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .paying-detailse h5 {
+            font-size: 14px;
+            text-align: left;
+        }
+        .paying-detailse h5 .price span {
+            padding: 10px 15px;
+            margin-left: 8px;
+        }
+        .paying-detailse > ul {
+            display: block;
+        }
+        .paying-detailse h5 a {
+            min-width: 150px;
+            height: 40px;
+            line-height: 40px;
+            font-size: 12px;
+        }
+        .paying-detailse p {
+            margin-top: 30px;
+            margin-bottom: 40px;
+        }
+        .paying-detailse li {
+            display: block;
+            text-align: left;
+            width: 100%;
+        }
+        .paying-detailse li h4 {
+            font-size: 14px;
+            margin-bottom: 10px;
+            padding-left: 25px;
+        }
+        .paying-detailse li .nice-select {
+            width: 100%;
+            height: 40px;
+            line-height: 40px;
+            padding-left: 25px;
+            font-size: 15px;
+            margin-right: 0;
+            margin-bottom: 25px;
+        }
+        .paying-detailse li .nice-select:after {
+            border-bottom: 2px solid #B6B6B8;
+            border-right: 2px solid #B6B6B8;
+            height: 10px;
+            margin-top: -6px;
+            right: 30px;
+            top: 50%;
+            width: 10px;
+        }
+        .paying-detailse li .nice-select ul li { 
+            font-size: 15px; 
+        }
+        .paying-detailse li input {
+            width: 100%;
+            height: 40px;
+            line-height: 40px;
+            padding-left: 25px;
+            font-size: 15px;
+        }
+        .paying-detailse a.theme-btn { 
+            margin-top: 25px;
+        } 
+        .tab-pane {
+            height: 290px;
+            border-radius: 15px;
+        }
+        .img-gellery .nav li.nav-item {
+            width: 80px;
+            margin: 0 5px;
+            height: 80px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+        ul#pills-tab {
+            justify-content: center;
+        }
+        .product-detailse {
+            padding-top: 50px;
+            padding-bottom: 70px;
+        }
+        .order-steps {
+            padding: 200px 0;
+            padding-bottom: 150px;
+        }
+        .order-single-blk {
+            padding: 20px 20px;
+            border-radius: 15px;
+        }
+        .order-single-blk span {
+            height: 50px;
+            min-width: 50px;
+            line-height: 50px;
+            font-size: 15px;
+            margin-right: 15px;
+        }
+ 
+
+
+        .cart-area {
+            padding: 50px 0;
+        }
+        .cart-table {
+            overflow: auto;
+        } 
+        .cart-table table {
+            width: 625px;
+        }
+        .single-cart table thead tr th { 
+            padding: 20px;
+        }
+        .single-cart table tbody tr td {
+            padding-top: 15px;
+            padding-bottom: 15px;
+        }
+        .single-cart table tbody tr td img {
+            width: 60px;
+            height: 60px;
+            margin-right: 10px;
+        }
+        .single-cart table thead tr th:first-child {
+            padding-left: 20px;
+        }
+        .single-cart table thead tr th:last-child {
+            padding-right: 20px;
+        }
+        .single-cart table tbody tr td:first-child {
+            padding-left: 20px;
+        }
+        .single-cart table tbody tr td:last-child {
+            padding-right: 20px;
+        }
+        .single-cart table tbody tr td .cart-wrp h5 { 
+            font-size: 14px;
+        } 
+        .single-cart table tbody tr td .cart-wrp h5 span { 
+            margin-top: 5px;
+            font-size: 13px;
+        }
+        .nice-number button {
+            height: 30px;
+            width: 30px;
+            font-size: 24px;
+            line-height: 28px;
+        }
+        .nice-number input[type="number"] {
+            min-width: 40px; 
+        }
+        .single-cart table tbody tr td a.trash {
+            height: 35px;
+            width: 35px;
+            line-height: 35px;
+            margin-left: 15px;
+        }
+        .single-cart table { 
+            margin-bottom: 40px;
+        }
+        .total-costs h4 {
+            margin: 0;
+            height: 50px;
+            line-height: 50px;
+            width: 100%;
+            border-radius: 10px;
+            font-size: 14px;
+            margin-bottom: 15px;
+        }
+        .total-costs h4 span {
+            margin-left: 100px;
+        }
+        .single-cart a.theme-btn.inactive {
+            margin-right: 0px;
+            margin-bottom: 15px;
+        } 
+        .services-area {
+            padding-top: 50px; 
+        } 
+        .single-cart a.theme-btn.inactive {
+            margin-right: 10px; 
+        }
+        .services-contain h2 {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .services-contain p {
+            padding-bottom: 0px;
+            font-size: 13px;
+            line-height: 24px;
+        }
+        .services-contain {
+            margin-bottom: 60px;
+        }
+
+        .accordion-area {
+            padding-top: 70px;
+            padding-bottom: 70px;
+        } 
+       .btn.btn-link.collapsed {
+        font-size: 15px;
+        padding: 15px 25px; 
+        }
+        .btn.btn-link {
+            font-size: 15px;
+            padding: 15px 25px; 
+        }
+          .accordion-area div#accordion span { 
+            right: 15px;
+            font-size: 26px;  
+          }
+          .card-body p {
+            padding: 10px 0;
+            margin-left: 0px;
+          } 
+          .card-body p:last-child {
+            padding-top: 0px;
+          } 
+          .card-header { 
+            padding-right: 0;
+            padding-left: 0px;
+        }
+        .contact-from p { 
+            font-weight: 400; 
+            margin-bottom: 15px;
+            margin-left: 30px;
+        }
+          
+        .contact-from ::placeholder { 
+            font-size: 14px; 
+            
+        }
+        .contact-from input { 
+            padding: 10px 30px;
+            margin-bottom: 30px;
+        }
+        .contact-from textarea.message { 
+            padding: 20px 30px;
+            min-height: 150px;
+        }
+        .contact-btn.btn {
+            height: 50px;
+            width: 170px;
+            line-height: 50px;
+            padding: 0px;    
+            font-size: 16px;
+        }
+        textarea.message {
+            margin-bottom: 25px;
+        }
+        .Contact-us-area {
+            padding: 70px 0px;
+        }
+        .hero-area .hero-slider .hero-item h1 {
+            font-weight: 900;
+            font-size: 18px;
+            line-height: 22px;
+            margin-bottom: 20px;
+        }
+        .start-area img {
+            width: 100%;
+            margin-bottom: 70px;
+        }
+        .start-area { 
+            padding: 70px 0; 
+        }
+        .star-wrp {
+            text-align: center;
+        } 
+        .strock-title {
+            margin-bottom: -50px;
+            font-size:54px; 
+        }
+        .second-step img {
+            position: unset; 
+            width: 100%;
+        }
+        .comprises-area .first-step img {
+            position: unset; 
+            top: 40px;
+            width: 100%;
+        }
+        .first-step .comprises-wrp {
+            padding-left: 0px;
+            padding-top: 50px;
+        }
+        .comprises-wrp h3 {
+            font-size: 22px;
+            margin-bottom: 20px;
+        }
+        .hero-area img {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            display: block;
+        }
+        .hero-area .hero-slider .hero-item {
+            text-align: center;
+            width: 90%;
+            margin: auto;
+        } 
+        .star-wrp h1 {
+            font-size: 22px; 
+            margin-bottom: 30px;
+        }
+        .star-wrp p { 
+            margin-bottom: 20px;
+            opacity: 70%;
+        }
+        .designed-area {
+            padding-top: 50px;
+        }
+        .comprises-area { 
+            padding: 50px 0;
+        }
+        .comprises-wrp p {
+            margin-bottom: 15px;
+        }
+        .second-step {
+            margin-top: 70px; 
+        }
+        .second-step .comprises-wrp {
+            padding-top: 70px;
+            padding-bottom: 0px;
+            padding-right: 0px;
+        }
+        .comprises-wrp {
+            text-align: center;
+        }
+        .second-step .comprises-wrp h1.strock-title {
+            padding-left: 0px;
+            margin-bottom: -72px;
+            font-size: 80px;
+        } 
+        .first-step .comprises-wrp h1.strock-title {
+            margin-left: 0px;
+            margin-bottom: -72px;
+            font-size: 80px;
+        }
+        .all-blks {
+            display: block;
+        }
+        .all-blks .feature-blk {
+            margin-left: 0px;
+            margin-bottom: 20px;
+        }
+        .feature-blk span {
+            font-size: 30px;
+            margin-right: 25px;
+        }
+        .feature-blk h4 {
+            font-size: 16px; 
+            margin: 0;
+        }
+        .feature-blk h4 p {
+            font-size: 12px; 
+            margin-top: 5px;
+            margin-bottom: 0px;
+            display: block;
+        }
+        .features-area { 
+            padding: 40px 0;
+            padding-bottom: 20px;
+        }
+        .footer-social ul li a {
+            width: 35px;
+            height: 35px;
+            line-height: 35px;
+            font-size: 14px;
+            margin-left: 10px;
+            margin-top: 15px;
+        }
+        .footer-social.text-right {
+            text-align: center !IMPORTANT;
+        }
+        .instagram-area {
+            padding: 20px 0;
+            padding-top: 50px;
+        }
+
+        .comprises-wrp {
+            text-align: center;
+        }
+        
+        .footer-social.text-right {
+            text-align: center !IMPORTANT;
+        }
+        
+        .instagram-area h1 {
+            font-size: 18px;
+        }
+        
+        .instagram-area .section-title {
+            margin-bottom: 30px;
+        }
+        .designed-wrp .designed-item { 
+            border-radius: 20px;
+            padding: 35px;
+            margin: 0px;
+            margin-top: 0px !important;
+        }
+        .designed-wrp .designed-item img {
+            width: auto !important;
+            height: 60px;
+            margin-left: 15px;
+            margin-bottom: 40px;
+        }
+        .designed-wrp .designed-item h3 {
+            font-size: 18px;
+            margin-bottom: 18px;
+        }
+        .designed-wrp {
+            height: auto;
+            padding-bottom: 30px;
+        }
+        .slider-item img:first-child {
+            position: absolute;
+            top: -40px;
+        }
+        .testimonial-slider {
+            height: auto;
+        }
+        .slider-item.slick-slide{
+            margin: 0px;
+        }
+        .instagram-area .insta-photo a { 
+            border-radius: 10px;
+        } 
+        .footer-menu {
+            display: none;
+        }
+        footer {
+            background: #101920;
+        }
+        .copy-texts {
+            background: #101920;
+        }
+
+        .mobile-menu a.humg-btn {
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            display: block;
+            color: #fff;
+            font-size: 40px;
+        }
+        .card { 
+            margin-bottom: 10px;
+          }
+          .single-cart a.theme-btn {
+            border-radius: 0px;
+            width: 100%;
+            height: 40px;
+            padding: 0px;
+            line-height: 40px;
+        }
+        .cart-area .section-title {
+            margin-bottom: 35px;
+        } 
+        .single-cart.Payment .couppon-code input { 
+            height: 40px;
+            padding-left: 30px; 
+            margin-bottom: 15px;
+        }
+        .single-cart.Payment .couppon-code {
+            padding-left: 0;
+        }
+        .single-cart.Payment a.theme-btn {
+            width: 100%;
+            float: left;
+        }
+        .cart-area h1 {
+            font-size: 18px;
+        }
+        .shoping-method {
+            padding: 60px 0;
+            padding-bottom: 30px;
+        }
+        .shoping-method .section-title {
+            margin-bottom: 40px;
+        }
+        .billin-details-area {
+            padding: 60px 0;
+        }
+        input[type=checkbox] + label { 
+            border-radius: 10px;
+            padding: 30px 30px 30px 60px;
+            margin: 0px; 
+            margin-bottom: 30px;
+        }
+        .method-blk h5 {
+            font-size: 15px; 
+            margin: 0;
+        }
+        .method-blk p {
+            margin: 0;
+            margin-top: 10px;
+            line-height: 22px;
+        }
+        input[type=checkbox] + label:before { 
+            font-size: 12px;
+            width: 20px;
+            height: 20px; 
+            line-height: 20px; 
+            left: 25px;
+        }
+        .contact-from.billing .card label { 
+            padding-left: 27px; 
+        }
+        .contact-from.billing .card {
+            margin-bottom: 30px;
+        } 
+        .contact-from.billing .card-body {
+            margin: 0;
+        }
+        .contact-from.billing .card-body h4 { 
+            padding: 20px;
+            font-size: 14px;
+        }
+        .privacy-wrp { 
+            padding: 30px;
+        }
+        .privacy-wrp p {
+            font-size: 15px;
+            font-weight: 200; 
+            line-height: 22.17px; 
+            margin: 0;
+        }  
+        label.allterms {
+            width:100%; 
+            padding: 30px 0px 30px 20px !important;
+        } 
+        .contact-from.billing .checkboxes-and-radios label{
+            margin: 0pc;
+        }
+        .checkboxes-and-radios input[type="checkbox"] + label:after, .checkboxes-and-radios input[type="radio"] + label:after {  
+            line-height: 25px;
+            font-size: 12px;
+            width: 35px;
+        } 
+        .contact-from.billing .checkboxes-and-radios {
+            padding-left: 0px;
+        }
+        .checkboxes-and-radios span { 
+            margin-left: 15px; 
+        }
+        .contact-from.billing .checkboxes-and-radios {
+            margin-bottom: 25px;
+            height: max-content;
+        } 
+        .editor-area {
+            display: block; 
+        }
+        .editor {
+            min-width: 100%;
+            max-width: 100%;
+            padding-bottom: 60px;
+        }
+        .outout img {
+            margin: 50px 0px;
+            max-width: 100%;
+            width: 90%;
+        }
+        .editor .card .card-header button { 
+            padding-left: 40px; 
+        }
+        .editor .card .card-header button img {
+            margin-right: 15px;
+            width: 25px;
+        }
+        .editor .card .btn.btn-link.collapsed span {
+            font-size: 22px;
+            height: 10px;
+        }
+        .editor .card .btn.btn-link span {  
+            font-size: 22px; 
+        }
+        .editor .card-body {
+            padding: 20px 15px;
+            border-bottom: 1px solid #bec5ce;
+        }  
+        .poster-layout ul { 
+            padding: 25px 20px 0px 20px;
+        } 
+        .mapthestyles ul { 
+            padding: 15px 20px 15px 20px;
+        }
+        .mapthestyles ul li { 
+            margin: 15px 4px;
+            margin-bottom: 0px;
+        }
+        .elements ul {
+            padding: 10px 20px; 
+        } 
+        .editor .card-body label .lc span {
+            font-size: 15px;
+            margin-left: 15px;
+        }
+          .l-message h3 span { 
+            font-size: 14px;
+        }
+        .editor .card-body .nice-select {
+            font-size: 16px;
+            height: 40px;
+            width: 100%;
+            line-height: 42px;
+            padding-left: 20px;
+            padding-right: 60px;
+            margin-right: 0px;
+            margin-bottom: 5px;
+        }
+        .editor .card-body .nice-select:after {
+            border-bottom: 2px solid #273d5d;
+            border-right: 2px solid #273d5d;
+            height: 10px;
+            margin-top: -5px;
+            right: 18px;
+            width: 10px;
+        }
+        .editor .card-body label { 
+            font-size: 14px; 
+            margin-bottom: 30px;
+        }
+        .l-message h3 { 
+            font-size: 20px;
+        }
+        .l-message textarea {
+            min-height: 160px;
+            padding: 20px;
+        }
+        div#collapseOnet .card-body .style-icon span {
+            min-width: 80px;
+            height: 110px;
+            padding: 5px;
+            border: 2px solid #0000;
+            font-size: 50px;
+        }
+        .elements h3 {
+            height: 60px;
+            line-height: 60px;
+            padding-left: 30px;
+            font-size: 16px;
+        } 
+        .theme ul li a {
+            padding: 0 9px;
+            height: 35px;
+            line-height: 35px;
+            border-radius: 5px !important;
+        }
+        .editor .card-body .theme-wrp ul li a span {
+            width: 40px;
+            height: 40px;
+            margin: auto;
+            margin-bottom: 10px;
+        }
+        .editor .card-body .theme-wrp ul li { 
+            line-height: 18px; 
+            margin-bottom: 25px;
+        }
+        .editor .card-body .theme-wrp ul li a {
+            font-size: 14px; 
+            line-height: 18px; 
+        }
+        .editor .card-body label .lc span img {
+            width: 40px;
+        }
+        .theme-wrp i {
+            font-size: 15px; ;
+            margin-top: 5px; 
+        }
+        .theme ul {
+            margin-bottom: 30px !IMPORTANT;
+        }
+        .adding-email label span {  
+            font-size: 18px;
+        }
+        .adding-email label input { 
+            width: 100%;
+            height: 50px; 
+            padding-left: 35px; 
+            margin-bottom: 10px;
+            font-size: 16px;
+        }
+        .adding-email label i {
+            font-size: 14px;
+            display: block;
+        }
+        .adding-email a { 
+            margin-top: 50px; 
+        }
+        .adding-email a img {
+            margin-right: 10px;
+            width: 30px;
+        } 
+        .prices p {
+            padding: 0px 30px;
+            height: 50px;
+            font-size: 15px;
+        }
+        .adding-email {
+            width: 85%;
+            margin-bottom: 0;
+            margin-top: 50px;
+            padding-bottom: 40px;
+        }
+        .editor .card-body label .lc { 
+            margin-top: 5px;
+        }
+        .editor .card-body label .selects {
+            display: block; 
+            margin-top: 5px;
+        }
+        div#collapseOnet .card-body .style-icon span:nth-child(2) {
+            margin: 0 10px;
+        }
+        div#collapseOnet .card-body .style-icon {
+            padding: 54px 25px; 
+        } 
+        .header-action ul li.poster-btn a{
+            display: none;
+        }
+        .footer-menus h5 { 
+            margin-bottom: 15px;
+        }
+        .footer-menus ul li a { 
+            margin-top: 5px; 
+        }
+        .copy-texts p.copyright-text { 
+            margin-bottom: 15px;
+        }
+        .sbrands {
+            text-align: center;
+        }
+
+        .HeaderEditorContent { 
+            display: block;
+            text-align:center
+        }
+        .HeaderEditorContent .eHeadertext {
+            width: 100%;
+            max-width: 100%;
+            min-width: 100%; 
+            padding: 10px 20px; 
+            font-size: 13px; 
+        }
+        a.editorHeaderLogo { 
+            margin: auto;
+        }
+        .location {
+            padding-bottom: 0px;
+        }
+ 
+.editor div#accordionExample {
+    position: relative;
+    padding-top: 50px;
+}
+
+.editor .card {
+    position: static;
+    overflow: unset !IMPORTANT;
+} 
+.editor .card .card-header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 18% !important;
+} 
+.editor .card div#headingOne { 
+    width: 46% !important;
+}
+.editor .card div#headingOnet {
+    left: 46%;
+}
+.editor .card div#headingOneth {
+    left: 64%;
+}
+.editor .card div#headingOnef {
+    left: 82%;
+} 
+.editor .card .btn.btn-link.collapsed span {
+    top: auto;
+    bottom: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #2F394B;
+    height: 4px;
+    width: 30px;
+    overflow: hidden;
+    color: transparent;
+    border-radius: 10px;
+    opacity: 0;
+} 
+.editor .card .btn.btn-link span {
+    top: auto;
+    bottom: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #2F394B;
+    height: 4px;
+    width: 30px;
+    overflow: hidden;
+    color: transparent;
+    border-radius: 10px;
+    opacity: 1;
+}
+.editor .card .card-header button.btn.btn-link.collapsed {
+    padding: 15px 5px !important;
+    text-align: center !important;
+    font-size: 12px;
+    font-weight: 700 !important;
+}
+.editor .card .card-header button.btn.btn-link {
+    padding: 15px 5px !important;
+    text-align: center !important;
+    font-size: 12px;
+    font-weight: 900 !important;
+}
+
+.prices {
+    position: unset;
+    width: 90%;
+    margin: auto;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 0 8px #bd998d1f;
+    margin-top: 40px;
+} 
+div#collapseOnef .card-body {
+    padding: 10px 20px;
+    padding-bottom: 0;
+}
+.thePoster[data-orientation="sizePortrait"]{
+    margin:auto
+}
+.editor .card-body .location label.SelectionsHere { 
+    width: 100%;
+}
+.editor .card .card-header button ab {
+    display: none;
+}
+.editor .card-body .ppsizes label { 
+    padding: 5px 5px;
+    margin-bottom: 10px; 
+    padding-top: 4px; 
+}
+.prices button { 
+    padding: 0px 20px;
+    height: 50px;
+    font-size: 14px; 
+} 
+.mapthestyles ul li label img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 1px;
+    border: 4px solid #d1d1d1;
+}
+.tps {
+    transform: scale(0.5);
+}
+
+.tps div#theModern {
+    margin-left: -10px;
+}
+.outout { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
+.outout.sizeLandscape .tps {
+    transform: scale(.35);
+}
+
+.outout.sizeLandscape {
+    height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+}
+ 
+
+
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.mobile-menu a.humg-btn {
+    display: none;
+}
+.mobile-menu { 
+    padding-top: 50px; 
+    width: 320px;  
+  }
+
+
+
+
+
+
+
+
+}
